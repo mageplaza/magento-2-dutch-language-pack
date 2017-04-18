@@ -30,8 +30,8 @@ Notifications,Meldingen,module,Magento_AdminNotification
 "The message has been marked as Read.","Het bericht is gemarkeerd als gelezen.",module,Magento_AdminNotification
 "We couldn't mark the notification as Read because of an error.","Het bericht kan niet als gelezen gemarkeerd worden door een fout.",module,Magento_AdminNotification
 "Please select messages.","Selecteer de meldingen.",module,Magento_AdminNotification
-"A total of %1 record(s) have been marked as Read.","%1 bericht(en) zijn gemarkeerd als gelezen.",module,Magento_AdminNotification
-"Total of %1 record(s) have been removed.","%1 bericht(en) zijn verwijderd.",module,Magento_AdminNotification
+"A total of %1 record(s) have been marked as Read.","Er zijn in totaal %1 bericht(en) gemarkeerd als gelezen.",module,Magento_AdminNotification
+"Total of %1 record(s) have been removed.","Er zijn in totaal %1 bericht(en) verwijderd.",module,Magento_AdminNotification
 "We couldn't remove the messages because of an error.","Het bericht kan niet verwijderd worden door een fout.",module,Magento_AdminNotification
 "The message has been removed.","De notificatie is verwijderd",module,Magento_AdminNotification
 "1 Hour","1 uur",module,Magento_AdminNotification
