@@ -2726,6 +2726,7 @@ Payment,Betaling,module,Magento_Checkout
 "Not yet calculated","Nog niet berekend",module,Magento_Checkout
 "We received your order!","Wij hebben uw bestelling ontvangen!",module,Magento_Checkout
 "Thank you for your purchase!","Bedankt voor uw bestelling!",module,Magento_Checkout
+"Go to Checkout","Ga naar afrekenen",module,Magento_Checkout
 "Terms and Conditions","Algemene Voorwaarden",module,Magento_CheckoutAgreements
 "Add New Condition","Nieuwe voorwaarde toevoegen",module,Magento_CheckoutAgreements
 "Save Condition","Algemene Voorwaarden opslaan",module,Magento_CheckoutAgreements
