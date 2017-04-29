@@ -245,9 +245,9 @@ Edit,Bewerken,module,Magento_AdvancedSearch
 "Please select a vertical.","Selecteer een verticale.",module,Magento_Analytics
 "--Please Select--","--Maak een keuze--",module,Magento_Analytics
 "Cannot find predefined integration user!","Cannot find predefined integration user!",module,Magento_Analytics
-TestMessage,TestMessage,module,Magento_Analytics
-"Error message","Error message",module,Magento_Analytics
-"Apps and Games","Apps and Games",module,Magento_Analytics
+TestMessage,TestBericht,module,Magento_Analytics
+"Error message",Foutmelding,module,Magento_Analytics
+"Apps and Games","Apps en Games",module,Magento_Analytics
 "Athletic/Sporting Goods","Athletic/Sporting Goods",module,Magento_Analytics
 "Art and Design","Art and Design",module,Magento_Analytics
 "Free Tier","Free Tier",module,Magento_Analytics
@@ -264,7 +264,7 @@ Vertical,Vertikaal,module,Magento_Analytics
 "Analytics Subscription","Analytics Subscription",module,Magento_Analytics
 "Subscription Confirmation","Subscription Confirmation",module,Magento_Analytics
 Cancel,Cancel,module,Magento_Analytics
-Ok,Ok,module,Magento_Analytics
+Ok,OK,module,Magento_Analytics
 "I agree with sending my system
                             configuration and transaction data to Magento Analytics.","I agree with sending my system
                             configuration and transaction data to Magento Analytics.",module,Magento_Analytics
@@ -842,10 +842,10 @@ Pagination,Paginering,module,Magento_Backend
 "You need more free space to create a backup.","Onvoldoende opslagruimte voor het maken van een back-up.",module,Magento_Backup
 "You need more permissions to create a backup.","U heeft meer bevoegdheden nodig om een back-up te maken.",module,Magento_Backup
 "We can't create the backup right now.","We kunnen de back-up nu niet maken.",module,Magento_Backup
-Backups,Backups,module,Magento_Backup
-System,System,module,Magento_Backup
+Backups,Back-ups,module,Magento_Backup
+System,Systeem,module,Magento_Backup
 Tools,Instellingen,module,Magento_Backup
-Backup,Backup,module,Magento_Backup
+Backup,Back-up,module,Magento_Backup
 "We can't delete one or more backups.","Wij kunnen een of meerdere back-ups niet verwijderen.",module,Magento_Backup
 failed,failed,module,Magento_Backup
 successful,geslaagd,module,Magento_Backup
@@ -1559,7 +1559,7 @@ Products,Producten,module,Magento_Catalog
 "You removed product %1 from the comparison list.","Product %1 uit de vergelijkingslijst verwijderd.",module,Magento_Catalog
 "1 item","1 product",module,Magento_Catalog
 "%1 items","%1 producten",module,Magento_Catalog
-"Are you sure you want to remove this item from your Compare Products list?","Are you sure you want to remove this item from your Compare Products list?",module,Magento_Catalog
+"Are you sure you want to remove this item from your Compare Products list?","Weet u zeker dat u dit product wilt verwijderen van uw vergelijking?",module,Magento_Catalog
 "Are you sure you want to remove all items from your Compare Products list?","Are you sure you want to remove all items from your Compare Products list?",module,Magento_Catalog
 "Invalid attribute %1","Ongeldig attribuut %1",module,Magento_Catalog
 Grid,Foto-tabel,module,Magento_Catalog
@@ -2727,6 +2727,9 @@ Payment,Betaling,module,Magento_Checkout
 "We received your order!","Wij hebben uw bestelling ontvangen!",module,Magento_Checkout
 "Thank you for your purchase!","Bedankt voor uw bestelling!",module,Magento_Checkout
 "Go to Checkout","Ga naar afrekenen",module,Magento_Checkout
+"View and edit cart","Bekijk en bewerk winkelwagen",module,Magento_Checkout
+"Item in Cart","Product in winkelwagen",module,Magento_Checkout
+"Items in Cart","Producten in winkelwagen",module,Magento_Checkout
 "Terms and Conditions","Algemene Voorwaarden",module,Magento_CheckoutAgreements
 "Add New Condition","Nieuwe voorwaarde toevoegen",module,Magento_CheckoutAgreements
 "Save Condition","Algemene Voorwaarden opslaan",module,Magento_CheckoutAgreements
@@ -2934,7 +2937,7 @@ Name,Naam,module,Magento_CmsStaging
 Description,Omschrijving,module,Magento_CmsStaging
 Action,Actie,module,Magento_CmsStaging
 "Update Information","Informatie bijwerken",module,Magento_CmsStaging
-"Remove CMS block from Update","Remove CMS block from Update",module,Magento_CmsStaging
+"Remove CMS block from Update","Verwijder CMS-Block uit update",module,Magento_CmsStaging
 "Update Name","Naam van update",module,Magento_CmsStaging
 "Start Date",Begindatum,module,Magento_CmsStaging
 "End Date",Einddatum,module,Magento_CmsStaging
@@ -3309,7 +3312,7 @@ Monthly,Maandelijks,module,Magento_Cron
 "Invalid cron expression, expecting 'from-to' structure: %1","Ongeldige cron expressie, verwacht wordt ' van-naar ' structuur: %1",module,Magento_Cron
 "Some error","Een fout",module,Magento_Cron
 "Invalid callback: Not_Existed_Class::execute can't be called","Invalid callback: Not_Existed_Class::execute can't be called",module,Magento_Cron
-"Test exception","Test exception",module,Magento_Cron
+"Test exception","Text exception",module,Magento_Cron
 "Cron (Scheduled Tasks)","Cron (Geplande taken)",module,Magento_Cron
 "For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set. All the times are in minutes.","Om correcte URL's te genereren tijdens cron, zorg er voor dat Web > Veilige en onbeveiligde Base URL's expliciet zijn ingesteld. Alle tijden zijn in minuten.",module,Magento_Cron
 "Cron configuration options for group:","Cron configuratie-opties voor groep:",module,Magento_Cron
@@ -4348,8 +4351,8 @@ Debug,Debug,module,Magento_Cybersource
 "Developer Client Restrictions","Beperk bewerkingen in omgeving o.b.v. IP adres",module,Magento_Developer
 "Allowed IPs (comma separated)","Toegestane IP's (door komma's gescheiden)",module,Magento_Developer
 "Leave empty for access from any location.","Indien het veld leeg is, zal deze functionaliteit voor iedereen toegankelijk zijn.",module,Magento_Developer
-"Log to File","Log to File",module,Magento_Developer
-"Not available in production mode.","Not available in production mode.",module,Magento_Developer
+"Log to File","Log naar bestand",module,Magento_Developer
+"Not available in production mode.","Niet beschikbaar in productie mode.",module,Magento_Developer
 "Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds %1 %2.","Selecteer dit om DHL te laten instaan voor een geoptimaliseerde splitsing van de bestelling indien het %1 %2 overschrijdt.",module,Magento_Dhl
 "Wrong Content Type","Verkeerd Inhoudstype",module,Magento_Dhl
 Pounds,"500 gram",module,Magento_Dhl
@@ -4536,7 +4539,7 @@ inline,inline,module,Magento_Downloadable
 Pending,"In afwachting",module,Magento_Downloadable
 Invoiced,Gefactureerd,module,Magento_Downloadable
 "To enable the option set the weight to no","Om de optie in te schakelen, stel het gewicht in op nee",module,Magento_Downloadable
-"Is this downloadable Product?","Is dit een downloadable product?",module,Magento_Downloadable
+"Is this downloadable Product?","Is dit een downloadbaar product?",module,Magento_Downloadable
 Links,Links,module,Magento_Downloadable
 Title,Titel,module,Magento_Downloadable
 "Links can be purchased separately","Links kunnen afzonderlijk worden gekocht",module,Magento_Downloadable
@@ -6002,7 +6005,7 @@ Message,Bericht,module,Magento_Invitation
 "Send From","Verzenden van",module,Magento_Invitation
 "Invitee Group",genodigdengroep,module,Magento_Invitation
 Reset,Reset,module,Magento_Invitation
-Save,Save,module,Magento_Invitation
+Save,Bewaar,module,Magento_Invitation
 "View Invitation for %1 (ID: %2)","Bekijk Uitnodiging voor %1 (ID: %2)",module,Magento_Invitation
 Back,Terug,module,Magento_Invitation
 "Discard Invitation","Verwijder uitnodiging",module,Magento_Invitation
@@ -6309,6 +6312,7 @@ Partners,Partners,module,Magento_Marketplace
 "Read More","Meer Lezen",module,Magento_Marketplace
 "Partner Page",Partnerpagina,module,Magento_Marketplace
 "No partners were found","Geen partners gevonden",module,Magento_Marketplace
+"Find Partners & Extensions","Vind Partners & Extensies",module,Magento_Marketplace
 Synchronize,Synchroniseren,module,Magento_MediaStorage
 "Synchronizing %1 to %2","Synchroniseren %s tot %s",module,Magento_MediaStorage
 Synchronizing...,Synchroniseren...,module,Magento_MediaStorage
@@ -7642,7 +7646,7 @@ Description,Beschrijving,module,Magento_ProductVideo
 Role,Rol,module,Magento_ProductVideo
 "YouTube and Vimeo supported.","Youtube en Vimeo ondersteund.",module,Magento_ProductVideo
 "Vimeo supported.<br />To add YouTube video, please <a href=""%1"">enter YouTube API Key</a> first.","Vimeo ondersteund.<br />Om een YouTube video toe te voegen, gelieve eerst<a href=""%1"">uw YouTube API Key in te vullen</a>.",module,Magento_ProductVideo
-"Protocol isn't allowed","Protocol isn't allowed",module,Magento_ProductVideo
+"Protocol isn't allowed","Protocol is niet toegestaan",module,Magento_ProductVideo
 "Could not get preview image information. Please check your connection and try again.","Kan afbeelding voorvertoning niet ophalen. Controleer uw verbinding en probeer het opnieuw.",module,Magento_ProductVideo
 "Add Video","Video toevoegen",module,Magento_ProductVideo
 "Browse to find or drag image here","Bladeren om de afbeelding te vinden of sleep de afbeelding hierheen",module,Magento_ProductVideo
@@ -10519,7 +10523,7 @@ Save,Opslaan,module,Magento_Staging
 "This update not exists.","Deze update bestaat niet.",module,Magento_Staging
 "Content Staging Dashboard","Content Staging Dashboard",module,Magento_Staging
 "Edit Existing Update","Bewerk Bestaande Update",module,Magento_Staging
-"Assign to Another Update","Assign to Another Update",module,Magento_Staging
+"Assign to Another Update","Aan een andere update koppelen",module,Magento_Staging
 "Save as a New Update","Opslaan als nieuwe update",module,Magento_Staging
 "Assign to Existing Update","Assign to Existing Update",module,Magento_Staging
 "You removed this %1 from the update and saved it in the other one.","%1 uit de update verwijderd en opgeslagen in een andere update.",module,Magento_Staging
@@ -10869,7 +10873,7 @@ Stores,Winkels,module,Magento_Support
 "Add Swatch","Staal toevoegen",module,Magento_Swatches
 "Sort Option",Sorteeroptie,module,Magento_Swatches
 Swatch,Staal,module,Magento_Swatches
-Description,Description,module,Magento_Swatches
+Description,Omschrijving,module,Magento_Swatches
 Delete,Verwijder,module,Magento_Swatches
 "The value of Admin must be unique.","The value of Admin must be unique.",module,Magento_Swatches
 "Choose a color","Kies een kleur",module,Magento_Swatches
@@ -11989,7 +11993,7 @@ Name,Naam,module,Magento_Variable
 "Card Number",Kaartnummer,module,Magento_Vault
 "Expiration Date",Vervaldatum,module,Magento_Vault
 Type,Soort,module,Magento_Vault
-"You have no stored payment methods.","You have no stored payment methods.",module,Magento_Vault
+"You have no stored payment methods.","U hebt geen opgeslagen betaalmethoden.",module,Magento_Vault
 ending,einde,module,Magento_Vault
 Actions,Acties,module,Magento_Vault
 Delete,Verwijder,module,Magento_Vault
@@ -12481,7 +12485,7 @@ Matched,Overeengekomen,module,Magento_Worldpay
 "Not matched","Niet gevonden",module,Magento_Worldpay
 "Partially matched","Gedeeltelijk overeengekomen",module,Magento_Worldpay
 "No such order id.","Geen dergelijke order-id.",module,Magento_Worldpay
-"Your purchase process has been cancelled.","Your purchase process has been cancelled.",module,Magento_Worldpay
+"Your purchase process has been cancelled.","Uw aankoopproces is geannuleerd.",module,Magento_Worldpay
 "Something went wrong while processing your order. Please try again later.","Something went wrong while processing your order. Please try again later.",module,Magento_Worldpay
 "Gateway response is not valid.","Gateway antwoord is niet geldig.",module,Magento_Worldpay
 "Wrong response type","Verkeerd antwoord type",module,Magento_Worldpay
