@@ -2603,7 +2603,7 @@ items,producten,module,Magento_Checkout
 "There are more than one shipping addresses.","Er zijn meerdere verzendadressen.",module,Magento_Checkout
 "Sorry, guest checkout is not available.","Afrekenen zonder account is niet mogelijk.",module,Magento_Checkout
 "You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","U moet uw account bevestigen. Controleer uw email voor de bevestigingslink of <a href=""%1""> Klik hier</a> voor een nieuwe link.",module,Magento_Checkout
-"Load customer quote error","Fout bij laden van klant-quote",module,Magento_Checkout
+"Load customer quote error","Fout bij laden van klant-offerte",module,Magento_Checkout
 "Error message!",Foutmelding!,module,Magento_Checkout
 Error!,Fout!,module,Magento_Checkout
 "DB exception","DB uitzondering",module,Magento_Checkout
@@ -2649,7 +2649,7 @@ Items,Producten,module,Magento_Checkout
 Total:,Totaal:,module,Magento_Checkout
 "Billing Address:",Factuuradres:,module,Magento_Checkout
 "Shipping Address:",Bezorgadres:,module,Magento_Checkout
-"Shipping Method:",Verzendmethode,module,Magento_Checkout
+"Shipping Method:",Verzendmethode:,module,Magento_Checkout
 "Payment Method:",Betaalmethode:,module,Magento_Checkout
 "Date & Time:","Datum & Tijd:",module,Magento_Checkout
 "Sign In",Aanmelden,module,Magento_Checkout
