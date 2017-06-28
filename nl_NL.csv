@@ -8376,7 +8376,7 @@ None,Geen,module,Magento_Reward
 "Each earned reward points award expires in %1 days.","Gespaarde spaarpunten verlopen over %1 dagen.",module,Magento_Reward
 "Refer to reward points history to see when a specific record expires.","Verwijs naar spaarpunten geschiedenis om te kijken wanneer een bepaalde record verloopt.",module,Magento_Reward
 "Email Notification Settings","E-mail notificatie instellingen",module,Magento_Reward
-"Save Subscription Settings","Notificatie-intstellingen Opslaan",module,Magento_Reward
+"Save Subscription Settings","Notificatie-instellingen Opslaan",module,Magento_Reward
 "Reward Points Balance Updated at %store_name","Spaarpunten balans bijgewerkt op %store_name",module,Magento_Reward
 "%name,","%name,",module,Magento_Reward
 "You have %points_balance points that may be used in our store:","U heeft een totaal van %points_balance punten die u kan gebruiken in onze winkel:",module,Magento_Reward
