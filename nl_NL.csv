@@ -3755,7 +3755,7 @@ Password:,Wachtwoord:,module,Magento_Customer
 "View past orders","Orderhistorie bekijken",module,Magento_Customer
 "Store alternative addresses (for shipping to multiple family members and friends)","Meerdere adressen opslaan (om bijvoorbeeld bestellingen naar vrienden en familie te sturen)",module,Magento_Customer
 "Please confirm your %store_name account","Bevestig uw %store_name account",module,Magento_Customer
-"You must confirm your %customer_email email before you can sign in (link is only valid once):","Bevestig uw e-mailadres (%customer_email) om in te kunnen loggen (u kunt de link één keer gebruiken):",module,Magento_Customer
+"You must confirm your %customer_email email before you can sign in (link is only valid once):","Bevestig uw e-mailadres %customer_email om in te kunnen loggen (u kan deze link slecht één keer gebruiken):",module,Magento_Customer
 "Confirm Your Account","Uw account bevestigen",module,Magento_Customer
 "Thank you for confirming your %store_name account.","Bedankt voor het bevestigen van uw %store_name account.",module,Magento_Customer
 "To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:","Om in te loggen op onze website en een wachtwoord in te stellen, klik op deze <a href=""%create_password_url"">link</a>:",module,Magento_Customer
@@ -5291,7 +5291,7 @@ Emails,E-mails,module,Magento_GiftRegistry
 "Send From","Verzenden van",module,Magento_GiftRegistry
 Message,Bericht,module,Magento_GiftRegistry
 "Share Gift Registry","Aanmelden Cadeau Delen",module,Magento_GiftRegistry
-"Gift Registry",Verlanglijst,module,Magento_GiftRegistry
+"Gift Registry",Geschenklijst,module,Magento_GiftRegistry
 Event,Gebeurtenis,module,Magento_GiftRegistry
 Registrants,Registranten,module,Magento_GiftRegistry
 "Event Date","Gebeurtenis datum",module,Magento_GiftRegistry
@@ -5483,7 +5483,7 @@ Sender,Afzender,module,Magento_GiftRegistry
 Invitee,genodigde,module,Magento_GiftRegistry
 "Maximum %1 email addresses.","Maximale %1 e-mailadressen.",module,Magento_GiftRegistry
 "Add Invitee","Genodigde toevoegen",module,Magento_GiftRegistry
-"Gift Registry Type",verlanglijst-type,module,Magento_GiftRegistry
+"Gift Registry Type","Geschenklijst type",module,Magento_GiftRegistry
 "Please select a gift registry type.","Selecteer een geschenk register type.",module,Magento_GiftRegistry
 Next,Volgende,module,Magento_GiftRegistry
 "Last Name",Achternaam,module,Magento_GiftRegistry
@@ -8376,7 +8376,7 @@ None,Geen,module,Magento_Reward
 "Each earned reward points award expires in %1 days.","Gespaarde spaarpunten verlopen over %1 dagen.",module,Magento_Reward
 "Refer to reward points history to see when a specific record expires.","Verwijs naar spaarpunten geschiedenis om te kijken wanneer een bepaalde record verloopt.",module,Magento_Reward
 "Email Notification Settings","E-mail notificatie instellingen",module,Magento_Reward
-"Save Subscription Settings","Notificatie-intstellingen Opslaan",module,Magento_Reward
+"Save Subscription Settings","Notificatie-instellingen opslaan",module,Magento_Reward
 "Reward Points Balance Updated at %store_name","Spaarpunten balans bijgewerkt op %store_name",module,Magento_Reward
 "%name,","%name,",module,Magento_Reward
 "You have %points_balance points that may be used in our store:","U heeft een totaal van %points_balance punten die u kan gebruiken in onze winkel:",module,Magento_Reward
@@ -9944,7 +9944,7 @@ Status,Status,module,Magento_ScheduledImportExport
 "File Directory","Bestands Indexering",module,Magento_ScheduledImportExport
 "For Type ""Local Server"" use relative path to Magento installation, e.g. var/export, var/import, var/export/some/dir","Voor type ""Local Server"" gebruik relatief pad naar Magento installatie, bijv. var/export, var/import, var/export/some/dir",module,Magento_ScheduledImportExport
 "FTP Host[:Port]","FTP Host[:Port]",module,Magento_ScheduledImportExport
-"User Name",Gebruiker-naam,module,Magento_ScheduledImportExport
+"User Name",Gebruikersnaam,module,Magento_ScheduledImportExport
 Password,Wachtwoord,module,Magento_ScheduledImportExport
 "File Mode",Bestandsmodus,module,Magento_ScheduledImportExport
 "Passive Mode","Passieve Modus",module,Magento_ScheduledImportExport
@@ -11696,7 +11696,7 @@ Roles,Rollen,module,Magento_User
 "Role Information","Rol informatie",module,Magento_User
 "Role Users","Rol gebruikers",module,Magento_User
 "User ID",Gebruiker-ID,module,Magento_User
-"User Name",Gebruiker-naam,module,Magento_User
+"User Name",Gebruikersnaam,module,Magento_User
 "First Name",Voornaam,module,Magento_User
 "Last Name",Achternaam,module,Magento_User
 Email,E-mailadres,module,Magento_User
