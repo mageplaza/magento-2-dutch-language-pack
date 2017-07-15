@@ -241,10 +241,10 @@ Edit,Bewerken,module,Magento_AdvancedSearch
 "Sorry, there was an error processing your registration request to Magento Analytics. Please try again later.","Sorry, is er een fout opgetreden tijdens de verwerking van uw aanvraag voor Magento Analytics. Probeer het later nog eens.",module,Magento_Analytics
 "Error occurred during postponement notification","Er is een fout opgetreden tijdens het uitstel kennisgeving",module,Magento_Analytics
 "Command was not found.","Opdracht is niet gevonden.",module,Magento_Analytics
-"There was an error save new configuration value.","There was an error save new configuration value.",module,Magento_Analytics
+"There was an error save new configuration value.","Er was een fout bij het opslaan van de nieuwe configuratiewaarde.",module,Magento_Analytics
 "Please select a vertical.","Selecteer een verticale.",module,Magento_Analytics
 "--Please Select--","--Maak een keuze--",module,Magento_Analytics
-"Cannot find predefined integration user!","Cannot find predefined integration user!",module,Magento_Analytics
+"Cannot find predefined integration user!","Vooraf gedefinieerde integratiegebruiker niet gevonden!",module,Magento_Analytics
 TestMessage,TestBericht,module,Magento_Analytics
 "Error message",Foutmelding,module,Magento_Analytics
 "Apps and Games","Apps en Games",module,Magento_Analytics
@@ -1014,7 +1014,7 @@ MM,MM,module,Magento_Braintree
 YY,JJ,module,Magento_Braintree
 "Please try again with another form of payment.","Probeer het opnieuw met een andere vorm van betaling.",module,Magento_Braintree
 "Sorry, but something went wrong.","Er ging iets verkeerd.",module,Magento_Braintree
-Payment,Payment,module,Magento_Braintree
+Payment,Betaling,module,Magento_Braintree
 Braintree,Braintree,module,Magento_Braintree
 "Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.","Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.",module,Magento_Braintree
 "Enable this Solution","Inschakelen van deze oplossing",module,Magento_Braintree
@@ -1052,7 +1052,7 @@ Debug,Debug,module,Magento_Braintree
 "Verify for Applicable Countries","Controleer voor landen die van toepassing zijn",module,Magento_Braintree
 "Verify for Specific Countries","Controleer voor bepaalde landen",module,Magento_Braintree
 "Dynamic Descriptors","Dynamic Descriptors",module,Magento_Braintree
-Name,Name,module,Magento_Braintree
+Name,Naam,module,Magento_Braintree
 Phone,Telefoonnummer,module,Magento_Braintree
 URL,URL,module,Magento_Braintree
 "Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.","Pas filters toe om resultaten te krijgen. Alleen de eerste 100 records worden weergegeven in de tabel. U kunt de volledige versie van het rapport als .csv bestand downloaden.",module,Magento_Braintree
@@ -4072,7 +4072,7 @@ State/Province,Provincie,module,Magento_CustomerCustomAttributes
 "Zip/Postal Code",Postcode,module,Magento_CustomerCustomAttributes
 Country,Land,module,Magento_CustomerCustomAttributes
 "This is your default billing address.","Dit is uw standaard factuuradres.",module,Magento_CustomerCustomAttributes
-"Use as my default billing address","Gebruik mijn standaard factuuradres",module,Magento_CustomerCustomAttributes
+"Use as my default billing address","Gebruik als standaard factuuradres",module,Magento_CustomerCustomAttributes
 "This is your default shipping address.","Dit is uw standaard leveringsadres.",module,Magento_CustomerCustomAttributes
 "Use as my default shipping address","Gebruik mijn standaard verzendadres",module,Magento_CustomerCustomAttributes
 "Save Address","Adres opslaan",module,Magento_CustomerCustomAttributes
@@ -11470,7 +11470,7 @@ Keyword,Trefwoord,module,Magento_Ui
 "Please enter 6 or more characters. Leading and trailing spaces will be ignored.","Voer zes of meer tekens in. Spaties aan begin en eind zullen worden genegeerd.",module,Magento_Ui
 "Please enter 7 or more characters, using both numeric and alphabetic.","Voer 7 of meer tekens in, zowel numerieke en alfabetische.",module,Magento_Ui
 "Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","Minimumlengte van dit veld moet gelijk of groter zijn dan %1 symbolen. Spaties in het begin en op het einde worden genegeerd.",module,Magento_Ui
-"Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.",module,Magento_Ui
+"Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","Minimum van verschillende klassen van tekens in wachtwoord is %1. Soorten tekens: kleine letters, hoofdletters, cijfers en speciale tekens.",module,Magento_Ui
 "Please enter a valid URL. Protocol is required (http://, https:// or ftp://).","Geef een geldige URL op. Protocol is vereist (http://, https:// or ftp://).",module,Magento_Ui
 "Please enter a valid URL. For example http://www.example.com or www.example.com.","Voer een geldige URL in. Bijvoorbeeld http://www.voorbeeld.com of www.voorbeeld.com.",module,Magento_Ui
 "Please enter a valid XML-identifier (Ex: something_1, block5, id-4).","Selecteer een geldige XML-identifier (Ex: voorbeeld_1, blok5, id-4).",module,Magento_Ui
