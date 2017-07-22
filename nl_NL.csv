@@ -6570,7 +6570,7 @@ Actions,acties,module,Magento_Multishipping
 "Billing Address",Factuuradres,module,Magento_Multishipping
 Change,Verander,module,Magento_Multishipping
 "Payment Method",Betaalmethode,module,Magento_Multishipping
-"Go to Review Your Order","Ga naar Vallideer uw bestelling",module,Magento_Multishipping
+"Go to Review Your Order","Ga naar Valideer uw bestelling",module,Magento_Multishipping
 "Back to Shipping Information","Terug naar verzendinformatie",module,Magento_Multishipping
 "Other items in your order","Andere items in uw bestelling",module,Magento_Multishipping
 "Edit Items","Artikelen bewerken",module,Magento_Multishipping
@@ -6605,7 +6605,7 @@ Items,Items,module,Magento_Multishipping
 Options,Opties,module,Magento_Multishipping
 "Allow Shipping to Multiple Addresses","Verzending naar meer adressen toestaan",module,Magento_Multishipping
 "Maximum Qty Allowed for Shipping to Multiple Addresses","Maximaal aantal voor verzending naar meer adressen",module,Magento_Multishipping
-"Review Order","Controleer bestlling",module,Magento_Multishipping
+"Review Order","Controleer bestelling",module,Magento_Multishipping
 "Select Shipping Method","Kies een verzendmethode",module,Magento_Multishipping
 "We received your order!","Wij hebben uw bestelling ontvangen!",module,Magento_Multishipping
 "Message has been rejected: %1","Bericht is geweigerd: %1",module,Magento_MysqlMq
