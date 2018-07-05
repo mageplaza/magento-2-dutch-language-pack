@@ -8344,3 +8344,4 @@ Account,Account,module,Magento_Theme
 "Wish List Section","Wensenlijst gedeelte","module","Magento_Wishlist"
 "Adding...","Bezig met toevoegen...",module,Magento_Catalog
 "Added","Toegevoegd",module,Magento_Catalog
+"Please enter the same value again.","Voer dezelfde waarde nogmaals in.",module,Magento_Ui
