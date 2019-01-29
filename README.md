@@ -40,6 +40,8 @@ Install the Dutch language pack via composer is never easier.
 ```
 composer require mageplaza/magento-2-dutch-language-pack:dev-master
 php bin/magento setup:static-content:deploy nl_NL
+php bin/magento indexer:reindex
+php bin/magento cache:clean
 php bin/magento cache:flush
 
 ```
@@ -50,6 +52,8 @@ php bin/magento cache:flush
 ```
 composer update mageplaza/magento-2-dutch-language-pack:dev-master
 php bin/magento setup:static-content:deploy nl_NL
+php bin/magento indexer:reindex
+php bin/magento cache:clean
 php bin/magento cache:flush
 
 ```
