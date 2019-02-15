@@ -13414,7 +13414,7 @@ Keyword,Trefwoord,module,Magento_Ui
 "Please enter a valid value, ex: 10,20,30","Geef een geldige waarde op, bijv.: 10,20,30",module,Magento_Ui
 "Please enter a quantity greater than 0.","Please enter a quantity greater than 0.",module,Magento_Ui
 "The fewest you may purchase is %1.","The fewest you may purchase is %1.",module,Magento_Ui
-"The maximum you may purchase is %1.","The maximum you may purchase is %1.",module,Magento_Ui
+"The maximum you may purchase is %1.","Het maximale dat u kunt bestellen is %1.",module,Magento_Ui
 "You can buy this product only in quantities of %1 at a time.","You can buy this product only in quantities of %1 at a time.",module,Magento_Ui
 "We don't recognize or support this file extension type.","We herkennen of ondersteunen dit bestandsformaat type niet.",module,Magento_Ui
 "File you are trying to upload exceeds maximum file size limit.","Bestand dat u probeert te uploaden overschrijdt de maximale bestandsgrootte limiet.",module,Magento_Ui
