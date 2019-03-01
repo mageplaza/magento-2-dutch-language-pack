@@ -2489,7 +2489,7 @@ Edit,Bewerken,module,Magento_CatalogEvent
 "The fewest you may purchase is %1.","Het minimale aantal dat u kunt bestellen is %1.",module,Magento_CatalogInventory
 "Please correct the quantity for some products.","Corrigeer het aantal voor sommige producten.",module,Magento_CatalogInventory
 "The most you may purchase is %1.","Het meeste dat u kunt kopen is %1.",module,Magento_CatalogInventory
-"The requested qty is not available","The requested qty is not available",module,Magento_CatalogInventory
+"The requested qty is not available","De gevraagde hoeveelheid is niet beschikbaar",module,Magento_CatalogInventory
 "We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","We hebben niet zo veel van ""%1"" zoals u gevraagd heeft, maar we zullen de resterende %2 naleveren.",module,Magento_CatalogInventory
 "We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.","We hebben niet zo veel van ""%1"" zoals u gevraagd heeft, maar we zullen de resterende %2 naleveren.",module,Magento_CatalogInventory
 "You can buy %1 only in quantities of %2 at a time.","U kunt %1 alleen in hoeveelheden van %2 kopen in één keer.",module,Magento_CatalogInventory
@@ -2888,12 +2888,12 @@ State/Province,Staat/provincie,module,Magento_Checkout
 "Guest checkout is disabled.","Gast bestellingen zijn uitgeschakeld.",module,Magento_Checkout
 Checkout,Afrekenen,module,Magento_Checkout
 "Page not found.","Pagina niet gevonden.",module,Magento_Checkout
-"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.",module,Magento_Checkout
+"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","De bestelling is niet geplaatst. Ga eerst akkoord met de algemene voorwaarden en probeer vervolgens uw bestelling opnieuw te plaatsen.",module,Magento_Checkout
 "Something went wrong while processing your order. Please try again later.","Er ging iets mis tijdens het verwerken van uw bestelling. Probeer het later nog eens.",module,Magento_Checkout
 "%1 doesn't extend \Magento\Checkout\CustomerData\ItemInterface","%1 breidt \Magento\Checkout\CustomerData\ItemInterface niet uit",module,Magento_Checkout
 "Payment Method",Betaalmethode,module,Magento_Checkout
 "Payment Page",Betaalpagina,module,Magento_Checkout
-"The product wasn't found. Verify the product and try again.","The product wasn't found. Verify the product and try again.",module,Magento_Checkout
+"The product wasn't found. Verify the product and try again.","Het product is niet gevonden. Controleer het product en probeer het opnieuw.",module,Magento_Checkout
 "We found an invalid request for adding product to quote.","We vonden een ongeldige aanvraag om het product toe te voegen aan de quote.",module,Magento_Checkout
 "The product does not exist.","Het artikel bestaat niet.",module,Magento_Checkout
 "We don't have some of the products you want.","We hebben niet alle producten die u wenst.",module,Magento_Checkout
@@ -2904,7 +2904,7 @@ Checkout,Afrekenen,module,Magento_Checkout
 "Display number of items in cart","Aantal producten in winkelwagen tonen",module,Magento_Checkout
 "Display item quantities","Productaantallen tonen",module,Magento_Checkout
 "An error occurred on the server. Please try to place the order again.","Er is een fout opgetreden op de server. Probeer de bestelling opnieuw te plaatsen.",module,Magento_Checkout
-"A server error stopped your order from being placed. Please try to place your order again.","A server error stopped your order from being placed. Please try to place your order again.",module,Magento_Checkout
+"A server error stopped your order from being placed. Please try to place your order again.","Een serverfout heeft er voor gezorgd dat de bestelling niet geplaatst kan worden. Probeer uw bestelling nogmaals te plaatsen.",module,Magento_Checkout
 "The shipping address is missing. Set the address and try again.","The shipping address is missing. Set the address and try again.",module,Magento_Checkout
 "The shipping information was unable to be saved. Verify the input data and try again.","The shipping information was unable to be saved. Verify the input data and try again.",module,Magento_Checkout
 "Carrier with such method not found: %1, %2","Vervoerder met dergelijke methode niet gevonden: %1, %2",module,Magento_Checkout
@@ -2947,7 +2947,7 @@ Edit,Bewerken,module,Magento_Checkout
 "Estimate Tax","Schat BTW",module,Magento_Checkout
 "Estimate Shipping and Tax","Bekijk verzendkosten en BTW",module,Magento_Checkout
 "Excl. Tax","Excl. BTW",module,Magento_Checkout
-"You added %1 to your <a href=""%2"">shopping cart</a>.","You added %1 to your <a href=""%2"">shopping cart</a>.",module,Magento_Checkout
+"You added %1 to your <a href=""%2"">shopping cart</a>.","U heeft %1 toegevoegd aan uw <a href=""%2"">winkelwagen</a>.",module,Magento_Checkout
 Loading...,"Bezig met laden...",module,Magento_Checkout
 "Order #",Ordernr.,module,Magento_Checkout
 "Proceed to Checkout","Ga door naar afrekenen",module,Magento_Checkout
@@ -2973,7 +2973,7 @@ Total:,Totaal:,module,Magento_Checkout
 Password,Wachtwoord,module,Magento_Checkout
 "Forgot Your Password?","Wachtwoord vergeten?",module,Magento_Checkout
 "My billing and shipping address are the same","Factuur- en verzendadres zijn hetzelfde",module,Magento_Checkout
-Update,Update,module,Magento_Checkout
+Update,Bijwerken,module,Magento_Checkout
 Cancel,Annuleer,module,Magento_Checkout
 "Save in address book","Opslaan in adresboek",module,Magento_Checkout
 "Billing Address",Factuuradres,module,Magento_Checkout
@@ -9696,7 +9696,7 @@ undefined,"niet van toepassing",module,Magento_Reports
 "Product %1 has been added to the requisition list %2.","Product %1 is toegevoegd aan bestellijst %2.",module,Magento_RequisitionList
 "Options were updated. Please review available configurations.","Opties zijn bijgewerkt. Controleer de beschikbare configuraties.",module,Magento_RequisitionList
 "The SKU is out of stock.","Het artikelnummer is niet op voorraad.",module,Magento_RequisitionList
-"The requested qty is not available","The requested qty is not available",module,Magento_RequisitionList
+"The requested qty is not available","De gevraagde hoeveelheid is niet beschikbaar",module,Magento_RequisitionList
 "Could not save Requisition List. Maximum number of requisition lists was exceeded.","Bestellijst kon niet worden opgeslagen. Maximum aantal bestellijsten werd overschreden.",module,Magento_RequisitionList
 Exception,Uitzondering,module,Magento_RequisitionList
 exception,uitzondering,module,Magento_RequisitionList
