@@ -4968,7 +4968,7 @@ Address,Adres,module,Magento_CustomerCustomAttributes
 "This is your default billing address.","Dit is uw standaard factuuradres.",module,Magento_CustomerCustomAttributes
 "Use as my default billing address","Gebruik als standaard factuuradres",module,Magento_CustomerCustomAttributes
 "This is your default shipping address.","Dit is uw standaard leveringsadres.",module,Magento_CustomerCustomAttributes
-"Use as my default shipping address","Gebruik mijn standaard verzendadres",module,Magento_CustomerCustomAttributes
+"Use as my default shipping address","Gebruik als standaard verzendadres",module,Magento_CustomerCustomAttributes
 "Save Address","Adres opslaan",module,Magento_CustomerCustomAttributes
 "Go back","Ga terug",module,Magento_CustomerCustomAttributes
 "Account Information",Accountgegevens,module,Magento_CustomerCustomAttributes
