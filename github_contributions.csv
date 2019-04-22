@@ -557,7 +557,7 @@ SKU,SKU,module,Magento_Bundle
 "Requested option doesn't exist","Gevraagde optie bestaat niet","module","Magento_Bundle"
 "Cannot delete option with id %1","Kan de optie met id %1 niet verwijderen","module","Magento_Bundle"
 "Could not save option","Kan de optie niet opslaan","module","Magento_Bundle"
-"As Low as","Zo laag als","module","Magento_Bundle"
+"As Low as","Vanaf","module","Magento_Bundle"
 "Price Range","Prijsklasse","module","Magento_Bundle"
 "Please specify product option(s).","Specificeer de product optie(s).","module","Magento_Bundle"
 "The options you selected are not available.","De geselecteerde opties zijn niet beschikbaar.","module","Magento_Bundle"
@@ -589,7 +589,7 @@ N/A,N/A,module,Magento_Bundle
 "Shipped","Verzonden","module","Magento_Bundle"
 "Refunded","Terugbetaald","module","Magento_Bundle"
 "Canceled","Geannuleerd","module","Magento_Bundle"
-"As low as","Zo laag als","module","Magento_Bundle"
+"As low as","Vanaf","module","Magento_Bundle"
 "Regular Price","Reguliere prijs","module","Magento_Bundle"
 "From","Van","module","Magento_Bundle"
 "To","Naar","module","Magento_Bundle"
@@ -1194,7 +1194,7 @@ px.,px.,module,Magento_Catalog
 "Multiple Select","Multiple Select",module,Magento_Catalog
 Dropdown,Dropdown,module,Magento_Catalog
 "%1 doesn't extend \Magento\Framework\Filter\Template","%1 breidt zich niet uit in \Magento\Framework\Filter\Template","module","Magento_Catalog"
-"As low as","Zo laag als","module","Magento_Catalog"
+"As low as","Vanaf","module","Magento_Catalog"
 "message","bericht","module","Magento_Catalog"
 fl,fl,module,Magento_Catalog
 123,123,module,Magento_Catalog
