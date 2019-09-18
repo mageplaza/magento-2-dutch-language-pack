@@ -8345,3 +8345,12 @@ Account,Account,module,Magento_Theme
 "Adding...","Bezig met toevoegen...",module,Magento_Catalog
 "Added","Toegevoegd",module,Magento_Catalog
 "Please enter the same value again.","Voer dezelfde waarde nogmaals in.",module,Magento_Ui
+"Account Information","Accountgegevens",module,Magento_Backend
+"Account Information","Accountgegevens",module,Magento_Company
+"Account Information","Accountgegevens",module,Magento_Customer
+"Account Information","Accountgegevens",module,Magento_CustomerCustomAttributes
+"Account Information","Accountgegevens",module,Magento_NegotiableQuote
+"Account Information","Accountgegevens",module,Magento_Sales
+"Account Information","Accountgegevens",module,Magento_User
+"Account Information","Accountgegevens",theme,frontend/Magento/blank
+"Account Information","Accountgegevens",theme,frontend/Magento/luma
