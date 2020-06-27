@@ -20,8 +20,6 @@ Read more [Magento 2 Dutch Language Pack](https://www.mageplaza.com/magento-2-du
 
 This is status of Dutch Language Pack, you can see how many percentage of this project has been done.
 
-![language pack](https://progress-bar.dev/93/?title=translated)
-
 It is not fully translated? Feel free to contribute:
 - [On Crowdin](https://crowdin.com/project/magento-2): It takes time to approve your contribution by Magento team.
 - [On Github](https://github.com/mageplaza/magento-2-dutch-language-pack/blob/master/HOW-TO-CONTRIBUTE.md): It's faster, our team will approve it after you send pull request.
@@ -38,13 +36,24 @@ Install the Dutch language pack via composer is never easier.
 
 **Install Dutch pack**:
 
+With Social Proof (recommend):
+
+```
+composer require mageplaza/magento-2-dutch-language-pack:dev-master avada/module-proofo
+php bin/magento setup:static-content:deploy nl_NL
+php bin/magento indexer:reindex
+php bin/magento cache:clean
+php bin/magento cache:flush
+```
+
+Without Social Proof:
+
 ```
 composer require mageplaza/magento-2-dutch-language-pack:dev-master
 php bin/magento setup:static-content:deploy nl_NL
 php bin/magento indexer:reindex
 php bin/magento cache:clean
 php bin/magento cache:flush
-
 ```
 
 
