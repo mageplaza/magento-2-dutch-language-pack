@@ -8345,3 +8345,4 @@ Account,Account,module,Magento_Theme
 "Adding...","Bezig met toevoegen...",module,Magento_Catalog
 "Added","Toegevoegd",module,Magento_Catalog
 "Please enter the same value again.","Voer dezelfde waarde nogmaals in.",module,Magento_Ui
+"Identifier","Identificator",module,Magento_CmsStaging
