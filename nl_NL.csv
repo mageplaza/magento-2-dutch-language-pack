@@ -14647,7 +14647,7 @@ than a customer might expect. ","Waarschuwing: de configuratie voor BTW-korting 
 "%1 Item(s)","%1 producten(en)",module,Magento_Theme
 "Page","Pagina",module,Magento_Theme
 "Previous","Vorige",module,Magento_Theme
-"You're currently reading page","U lees momenteel pagina",module,Magento_Theme
+"You're currently reading page","U leest momenteel pagina",module,Magento_Theme
 "Next","Volgende",module,Magento_Theme
 "Show","Toon",module,Magento_Theme
 "per page","per pagina",module,Magento_Theme
@@ -15662,7 +15662,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Page:","Pagina:",module,Magento_VersionsCms
 "Page","Pagina",module,Magento_VersionsCms
 "Previous","Vorige",module,Magento_VersionsCms
-"You're currently reading page","U lees momenteel pagina",module,Magento_VersionsCms
+"You're currently reading page","U leest momenteel pagina",module,Magento_VersionsCms
 "Next","Volgende",module,Magento_VersionsCms
 "Delete Revision and Version","Verwijder modificatie en versie",module,Magento_VersionsCms
 "Publish Revision","Publiceer Herziening",module,Magento_VersionsCms
