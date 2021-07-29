@@ -15126,55 +15126,55 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Transaction has been canceled","Transactie is geannuleerd",module,Magento_Worldpay
 "Transaction has been declined","Transactie afgewezen",module,Magento_Worldpay
 "The response type is incorrect. Verify the type and try again.","Het type reactie is incorrect. Controleer het type en probeer het opnieuw.",module,Magento_Worldpay
-"My Account","Account",theme,frontend\Magento\blank
-"Now Shopping by","Huidige filters",theme,frontend\Magento\luma
-"Previous","Vorige",theme,frontend\Magento\luma
-"Remove","Verwijder",theme,frontend\Magento\luma
-"Remove This Item","Verwijder dit artikel",theme,frontend\Magento\luma
-"Shop By","Filteren",theme,frontend\Magento\luma
-"Clear All","Alles wissen",theme,frontend\Magento\luma
-"Shopping Options","Selectie verfijnen",theme,frontend\Magento\luma
-"Welcome to %store_name","Welkom bij %store_name",theme,frontend\Magento\luma
-"%name,","%name,",theme,frontend\Magento\luma
-"Welcome to %store_name.","Welkom op %store_name.",theme,frontend\Magento\luma
-"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Om in te loggen op onze website, gebruik deze gegevens tijdens het betalen of op de <a href=""%customer_url"">Uw Account</a> pagina:",theme,frontend\Magento\luma
-"Email:","E-mail:",theme,frontend\Magento\luma
-"Password:","Wachtwoord:",theme,frontend\Magento\luma
-"Password you set when creating account","Opgegeven wachtwoord tijdens aanmaken van account",theme,frontend\Magento\luma
-"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Wachtwoord vergeten? Klik <a href=""%reset_url"">hier</a> om het opnieuw in te stellen.",theme,frontend\Magento\luma
-"When you sign in to your account, you will be able to:","Wanneer u inlogt op uw account kunt u:",theme,frontend\Magento\luma
-"Quick Checkout","Snelle betaling",theme,frontend\Magento\luma
-"Proceed through checkout faster","Sneller betalen",theme,frontend\Magento\luma
-"Order Status","Bestelling Status",theme,frontend\Magento\luma
-"Check the status of orders","Orderstatus controleren",theme,frontend\Magento\luma
-"Manage Addresses","Beheer adressen",theme,frontend\Magento\luma
-"Store alternative addresses","Alternatieve adressen opslaan",theme,frontend\Magento\luma
-"For shipping to multiple family members and friends","Voor verzending naar meerdere familieleden en vrienden",theme,frontend\Magento\luma
-"Order History","Bestelgeschiedenis",theme,frontend\Magento\luma
-"View past orders","Orderhistorie bekijken",theme,frontend\Magento\luma
-"Footer","onderschrift",theme,frontend\Magento\luma
-"Credit memo for your %store_name order","Creditfactuur voor uw %store_name bestelling",theme,frontend\Magento\luma
-"Thank you for your order from %store_name.","Bedankt voor uw bestelling bij %store_name.",theme,frontend\Magento\luma
-"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","U kunt de status van uw bestelling controleren door in te <a href=""%account_url"">loggen op uw account</a>.",theme,frontend\Magento\luma
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Indien u vragen heeft over uw bestelling kunt u ons e-mailen op <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend\Magento\luma
-"Your Credit Memo #%creditmemo_id for Order #%order_id","Uw creditfactuur #%creditmemo_id voor bestelling #%order_id",theme,frontend\Magento\luma
-"Billing Info","Factuuradres",theme,frontend\Magento\luma
-"Payment Method","Betaalmethode",theme,frontend\Magento\luma
-"Update to your %store_name credit memo","Update van uw %store_name creditfactuur",theme,frontend\Magento\luma
-"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Uw bestelling #%increment_id werd geupdate met volgende status <strong>%order_status</strong>.",theme,frontend\Magento\luma
-"Invoice for your %store_name order","Factuur voor uw %store_name bestelling",theme,frontend\Magento\luma
-"Your Invoice #%invoice_id for Order #%order_id","Uw factuur #%invoice_id voor bestelling #%order_id",theme,frontend\Magento\luma
-"Update to your %store_name invoice","Update van uw %store_name factuur",theme,frontend\Magento\luma
-"Your %store_name order confirmation","Uw %store_name bestelbevestiging",theme,frontend\Magento\luma
-"%customer_name,","%customer_name,",theme,frontend\Magento\luma
-"Once your package ships we will send you a tracking number.","Zodra we uw pakket verzenden, sturen wij u een Track- en Tracenummer.",theme,frontend\Magento\luma
-"Your Order <span class=""no-link"">#%increment_id</span>","Uw bestelling <span class=""no-link"">#%increment_id</span>",theme,frontend\Magento\luma
-"Placed on <span class=""no-link"">%created_at</span>","Geplaatst op <span class=""no-link"">%created_at</span>",theme,frontend\Magento\luma
-"Update to your %store_name order","Update van uw %store_name bestelling",theme,frontend\Magento\luma
-"Your %store_name order has shipped","Uw %store_name bestelling is verzonden",theme,frontend\Magento\luma
-"Your shipping confirmation is below. Thank you again for your business.","Hieronder kunt u uw verzendbevestiging vinden.",theme,frontend\Magento\luma
-"Your Shipment #%shipment_id for Order #%order_id","Uw verzending #%shipment_id voor bestelling #%order_id",theme,frontend\Magento\luma
-"Update to your %store_name shipment","Update van uw %store_name verzending",theme,frontend\Magento\luma
+"My Account","Account",theme,frontend/Magento/blank
+"Now Shopping by","Huidige filters",theme,frontend/Magento/luma
+"Previous","Vorige",theme,frontend/Magento/luma
+"Remove","Verwijder",theme,frontend/Magento/luma
+"Remove This Item","Verwijder dit artikel",theme,frontend/Magento/luma
+"Shop By","Filteren",theme,frontend/Magento/luma
+"Clear All","Alles wissen",theme,frontend/Magento/luma
+"Shopping Options","Selectie verfijnen",theme,frontend/Magento/luma
+"Welcome to %store_name","Welkom bij %store_name",theme,frontend/Magento/luma
+"%name,","%name,",theme,frontend/Magento/luma
+"Welcome to %store_name.","Welkom op %store_name.",theme,frontend/Magento/luma
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Om in te loggen op onze website, gebruik deze gegevens tijdens het betalen of op de <a href=""%customer_url"">Uw Account</a> pagina:",theme,frontend/Magento/luma
+"Email:","E-mail:",theme,frontend/Magento/luma
+"Password:","Wachtwoord:",theme,frontend/Magento/luma
+"Password you set when creating account","Opgegeven wachtwoord tijdens aanmaken van account",theme,frontend/Magento/luma
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Wachtwoord vergeten? Klik <a href=""%reset_url"">hier</a> om het opnieuw in te stellen.",theme,frontend/Magento/luma
+"When you sign in to your account, you will be able to:","Wanneer u inlogt op uw account kunt u:",theme,frontend/Magento/luma
+"Quick Checkout","Snelle betaling",theme,frontend/Magento/luma
+"Proceed through checkout faster","Sneller betalen",theme,frontend/Magento/luma
+"Order Status","Bestelling Status",theme,frontend/Magento/luma
+"Check the status of orders","Orderstatus controleren",theme,frontend/Magento/luma
+"Manage Addresses","Beheer adressen",theme,frontend/Magento/luma
+"Store alternative addresses","Alternatieve adressen opslaan",theme,frontend/Magento/luma
+"For shipping to multiple family members and friends","Voor verzending naar meerdere familieleden en vrienden",theme,frontend/Magento/luma
+"Order History","Bestelgeschiedenis",theme,frontend/Magento/luma
+"View past orders","Orderhistorie bekijken",theme,frontend/Magento/luma
+"Footer","onderschrift",theme,frontend/Magento/luma
+"Credit memo for your %store_name order","Creditfactuur voor uw %store_name bestelling",theme,frontend/Magento/luma
+"Thank you for your order from %store_name.","Bedankt voor uw bestelling bij %store_name.",theme,frontend/Magento/luma
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","U kunt de status van uw bestelling controleren door in te <a href=""%account_url"">loggen op uw account</a>.",theme,frontend/Magento/luma
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Indien u vragen heeft over uw bestelling kunt u ons e-mailen op <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend/Magento/luma
+"Your Credit Memo #%creditmemo_id for Order #%order_id","Uw creditfactuur #%creditmemo_id voor bestelling #%order_id",theme,frontend/Magento/luma
+"Billing Info","Factuuradres",theme,frontend/Magento/luma
+"Payment Method","Betaalmethode",theme,frontend/Magento/luma
+"Update to your %store_name credit memo","Update van uw %store_name creditfactuur",theme,frontend/Magento/luma
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Uw bestelling #%increment_id werd geupdate met volgende status <strong>%order_status</strong>.",theme,frontend/Magento/luma
+"Invoice for your %store_name order","Factuur voor uw %store_name bestelling",theme,frontend/Magento/luma
+"Your Invoice #%invoice_id for Order #%order_id","Uw factuur #%invoice_id voor bestelling #%order_id",theme,frontend/Magento/luma
+"Update to your %store_name invoice","Update van uw %store_name factuur",theme,frontend/Magento/luma
+"Your %store_name order confirmation","Uw %store_name bestelbevestiging",theme,frontend/Magento/luma
+"%customer_name,","%customer_name,",theme,frontend/Magento/luma
+"Once your package ships we will send you a tracking number.","Zodra we uw pakket verzenden, sturen wij u een Track- en Tracenummer.",theme,frontend/Magento/luma
+"Your Order <span class=""no-link"">#%increment_id</span>","Uw bestelling <span class=""no-link"">#%increment_id</span>",theme,frontend/Magento/luma
+"Placed on <span class=""no-link"">%created_at</span>","Geplaatst op <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
+"Update to your %store_name order","Update van uw %store_name bestelling",theme,frontend/Magento/luma
+"Your %store_name order has shipped","Uw %store_name bestelling is verzonden",theme,frontend/Magento/luma
+"Your shipping confirmation is below. Thank you again for your business.","Hieronder kunt u uw verzendbevestiging vinden.",theme,frontend/Magento/luma
+"Your Shipment #%shipment_id for Order #%order_id","Uw verzending #%shipment_id voor bestelling #%order_id",theme,frontend/Magento/luma
+"Update to your %store_name shipment","Update van uw %store_name verzending",theme,frontend/Magento/luma
 "Details","Details",lib,web
 "Warning: No message defined for %s","Warning: No message defined for %s",lib,web
 "Backup options","Backup opties",lib,web
