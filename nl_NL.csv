@@ -4652,7 +4652,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "The password needs at least %1 characters. Create a new password and try again.","Het wachtwoord moet een minimale lengte hebben van %1 karakters. Kies een nieuw wachtwoord en probeer het opnieuw.",module,Magento_Customer
 "The password can't begin or end with a space. Verify the password and try again.","Het wachtwoord mag niet starten of eindingen op een spatie. Kies een nieuw wachtwoord en probeer het opnieuw.",module,Magento_Customer
 "Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","Minimum van verschillende klassen van tekens in wachtwoord is %1. Soorten tekens: kleine letters, hoofdletters, cijfers en speciale tekens.",module,Magento_Customer
-"The password can't be the same as the email address. Create a new password and try again.","Het wachtwoord kan niet hetzelfde zijn als het email adres. Kies een nieuw wachtwoord en probeer het opnieuw.",module,Magento_Customer
+"The password can't be the same as the email address. Create a new password and try again.","Het ingegeven wachtwoord en email adres mogen niet overeenkomen. Kies een nieuw wachtwoord en probeer het opnieuw.",module,Magento_Customer
 "This customer already exists in this store.","Deze klant bestaat al in deze winkel.",module,Magento_Customer
 "A customer with the same email address already exists in an associated website.","A customer with the same email address already exists in an associated website.",module,Magento_Customer
 "The store view is not in the associated website.","De winkelaanzicht is niet in de bijbehorende website.",module,Magento_Customer
