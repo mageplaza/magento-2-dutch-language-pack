@@ -7758,7 +7758,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "All Wish Lists","Alle verlanlijsten",module,Magento_MultipleWishlist
 "Item","Product",module,Magento_MultipleWishlist
 "Qty","Aantal",module,Magento_MultipleWishlist
-"Price","prijs",module,Magento_MultipleWishlist
+"Price","Prijs",module,Magento_MultipleWishlist
 "Remove","Verwijder",module,Magento_MultipleWishlist
 "Add To Order","Aan bestelling toevoegen",module,Magento_MultipleWishlist
 "Configure and Add to Order","Configureer en voeg toe aan bestelling",module,Magento_MultipleWishlist
@@ -7905,7 +7905,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Order Review","Controleer uw bestelling",module,Magento_Multishipping
 "Item","Product",module,Magento_Multishipping
 "Edit","Bewerken",module,Magento_Multishipping
-"Price","prijs",module,Magento_Multishipping
+"Price","Prijs",module,Magento_Multishipping
 "Subtotal","Subtotaal",module,Magento_Multishipping
 "Items","Producten",module,Magento_Multishipping
 "Grand Total:","Eindtotaal:",module,Magento_Multishipping
@@ -8265,7 +8265,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "View Order","View Order",module,Magento_NegotiableQuote
 "Remove item","Verwijder dit artikel",module,Magento_NegotiableQuote
 "Product Name","Product Naam",module,Magento_NegotiableQuote
-"Price","prijs",module,Magento_NegotiableQuote
+"Price","Prijs",module,Magento_NegotiableQuote
 "Quote Items","Geoffreerde artikelen",module,Magento_NegotiableQuote
 "Update","Bijwerken",module,Magento_NegotiableQuote
 "No shipping information available.","Geen verzendgegevens beschikbaar.",module,Magento_NegotiableQuote
@@ -8643,7 +8643,7 @@ information on installing the agent is available <a target=""_blank"" href=""%1"
 "Flat Rate","Vast tarief",module,Magento_OfflineShipping
 "Enabled","Ingeschakeld",module,Magento_OfflineShipping
 "Method Name","Naam van methode",module,Magento_OfflineShipping
-"Price","prijs",module,Magento_OfflineShipping
+"Price","Prijs",module,Magento_OfflineShipping
 "Calculate Handling Fee","Verzendkosten berekenen",module,Magento_OfflineShipping
 "Handling Fee","Verwerkingskosten",module,Magento_OfflineShipping
 "Sort Order","Sorteervolgorde",module,Magento_OfflineShipping
@@ -9176,7 +9176,7 @@ If field is empty default value localhost will be saved.","IPs toegangslijst ges
 "Place Order","Plaats bestelling",module,Magento_Paypal
 "Submitting order information...","Informatie van de bestelling wordt opgeslagen...",module,Magento_Paypal
 "Item","Product",module,Magento_Paypal
-"Price","prijs",module,Magento_Paypal
+"Price","Prijs",module,Magento_Paypal
 "Qty","Aantal",module,Magento_Paypal
 "Subtotal","Subtotaal",module,Magento_Paypal
 "Please update order data to get shipping methods and rates","Update gegeven bestelling voor verzendmethodes en -kosten",module,Magento_Paypal
@@ -9894,7 +9894,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Show Report","Toon rapport",module,Magento_Reports
 "Interval","Interval",module,Magento_Reports
 "Total","Totaal",module,Magento_Reports
-"Price","prijs",module,Magento_Reports
+"Price","Prijs",module,Magento_Reports
 "Views","Weergaven",module,Magento_Reports
 "Refresh Statistics","Vernieuw Statistieken",module,Magento_Reports
 "Customers Reviews","Klanten-reviews",module,Magento_Reports
@@ -10157,7 +10157,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "You have no items in this requisition list.","U hebt geen producten in uw bestellijst.",module,Magento_RequisitionList
 "Product Name","Product Naam",module,Magento_RequisitionList
 "Item","Product",module,Magento_RequisitionList
-"Price","prijs",module,Magento_RequisitionList
+"Price","Prijs",module,Magento_RequisitionList
 "Qty","Aantal",module,Magento_RequisitionList
 "Subtotal","Subtotaal",module,Magento_RequisitionList
 "Product","Product",module,Magento_RequisitionList
@@ -10247,7 +10247,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "All Reviews","Alle reviews",module,Magento_Review
 "Name","Naam",module,Magento_Review
 "Product Store Name","Product winkelnaam",module,Magento_Review
-"Price","prijs",module,Magento_Review
+"Price","Prijs",module,Magento_Review
 "Quantity","Aantal",module,Magento_Review
 "Websites","Websites",module,Magento_Review
 "Manage Ratings","Beheer waarderingen",module,Magento_Review
@@ -10616,7 +10616,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Delete","Verwijder",module,Magento_Rma
 "Add Details","Voeg details toe",module,Magento_Rma
 "Select","Selecteer",module,Magento_Rma
-"Price","prijs",module,Magento_Rma
+"Price","Prijs",module,Magento_Rma
 "The wrong RMA was requested.","De verkeerde RMA werd opgevraagd.",module,Magento_Rma
 "This is the wrong RMA order ID.","Dit is de verkeerde RMA order-ID.",module,Magento_Rma
 "Invalid RMA","Ongeldige RMA",module,Magento_Rma
@@ -10976,7 +10976,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "ID","ID",module,Magento_Sales
 "Product","Product",module,Magento_Sales
 "SKU","Art.nr.",module,Magento_Sales
-"Price","prijs",module,Magento_Sales
+"Price","Prijs",module,Magento_Sales
 "Select","Selecteer",module,Magento_Sales
 "Quantity","Aantal",module,Magento_Sales
 "Shipping Address","Bezorgadres",module,Magento_Sales
@@ -12544,7 +12544,7 @@ configuring in shared catalogs will not be restricted to customers.","U moet de 
 "Websites","Websites",module,Magento_SharedCatalog
 "Cost","Kosten",module,Magento_SharedCatalog
 "MSRP","MSRP",module,Magento_SharedCatalog
-"Price","prijs",module,Magento_SharedCatalog
+"Price","Prijs",module,Magento_SharedCatalog
 "Custom Price","Speciale prijs",module,Magento_SharedCatalog
 "New Price","Nieuw prijs",module,Magento_SharedCatalog
 "Tax Class","BTW-tariefgroep",module,Magento_SharedCatalog
@@ -14773,7 +14773,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Sort order","Sorteervolgorde",module,Magento_VisualMerchandiser
 "Thumbnail","Thumbnail",module,Magento_VisualMerchandiser
 "Name","Naam",module,Magento_VisualMerchandiser
-"Price","prijs",module,Magento_VisualMerchandiser
+"Price","Prijs",module,Magento_VisualMerchandiser
 "SKU","Art.nr.",module,Magento_VisualMerchandiser
 "The consumer isn't authorized to access %resources.","The consumer isn't authorized to access %resources.",module,Magento_Webapi
 "Operation allowed only in HTTPS","Operatie kan enkel in HTTPS",module,Magento_Webapi
