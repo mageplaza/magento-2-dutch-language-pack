@@ -22,7 +22,7 @@ So, you should contribute to [github_contributions.csv](https://github.com/magep
 
 ### How to edit file github_contributions.csv
 
-The `github_contributions.csv` is saparated **line by line**, see:
+The `github_contributions.csv` is separated **line by line**, see:
 
 ```
 "Create Order","Crear pedido",module,Magento_AdvancedCheckout

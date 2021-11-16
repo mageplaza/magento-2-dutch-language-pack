@@ -518,7 +518,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "What is this?","Wat is dit?",module,Magento_Backend
 "Save Account","Account opslaan",module,Magento_Backend
 "My Account","Account",module,Magento_Backend
-"Account Information","Account Gegevens",module,Magento_Backend
+"Account Information","Accountgegevens",module,Magento_Backend
 "User Name","Gebruikersnaam",module,Magento_Backend
 "First Name","Voornaam",module,Magento_Backend
 "Last Name","Achternaam",module,Magento_Backend
@@ -2209,7 +2209,7 @@ en de productbeschrijving kan oplopen tot 18, 14 of 9 tekens (met een * tussen e
 "Out of stock","Niet op voorraad",module,Magento_Catalog
 "Add to Wish List","Voeg toe aan verlanglijst",module,Magento_Catalog
 "You have no items to compare.","Geen producten geselecteerd.",module,Magento_Catalog
-"Remove This Item","Verwijder dit artikel",module,Magento_Catalog
+"Remove This Item","Verwijder dit filter",module,Magento_Catalog
 "Compare","Vergelijken",module,Magento_Catalog
 "Clear All","Alles wissen",module,Magento_Catalog
 "Prev","Vorige",module,Magento_Catalog
@@ -3661,7 +3661,7 @@ See Magento documentation for more information,module,Magento_CmsStaging
 "Team Title","Team naam",module,Magento_Company
 "Description","Omschrijving",module,Magento_Company
 "You don't have a company account yet.","U heeft nog geen zakelijk account.",module,Magento_Company
-"Account Information","Account Gegevens",module,Magento_Company
+"Account Information","Accountgegevens",module,Magento_Company
 "VAT/TAX ID: ","BTW-nummer: ",module,Magento_Company
 "Re-seller ID: ","Verkoper ID: ",module,Magento_Company
 "You have no other address entries in your address book.","U hebt geen andere adressen ingevoerd in uw adresboek.",module,Magento_Company
@@ -3812,7 +3812,7 @@ for the following reason:","Uw bedrijfsregistratie aanvraag (voor <strong>%compa
 "Default 'Company Status Change To Pending Approval"" Email","Standaard 'Bedrijfsstatus gewijzigd naar In afwachting van goedkeuring' e-mail",module,Magento_Company
 "This email is sent when company status changes to Pending Approval.","Deze e-mail wordt verzonden wanneer de bedrijfsstatus verandert naar In afwachting van goedkeuring.",module,Magento_Company
 "All","Alle",module,Magento_Company
-"Account Information (View)","Accountinformatie (Bekijk)",module,Magento_Company
+"Account Information (View)","Accountgegevens (Bekijk)",module,Magento_Company
 "Legal Address (View)","Juridische adres (Bekijk)",module,Magento_Company
 "Contacts (View)","Contactpersonen (Bekijk)",module,Magento_Company
 "Company User Management","Bedrijf Gebruikersbeheer",module,Magento_Company
@@ -4649,17 +4649,17 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "This account isn't confirmed. Verify and try again.","This account isn't confirmed. Verify and try again.",module,Magento_Customer
 "Invalid value of ""%value"" provided for the %fieldName field. Possible values: %template1 or %template2.","Invalid value of ""%value"" provided for the %fieldName field. Possible values: %template1 or %template2.",module,Magento_Customer
 "Please enter a password with at most %1 characters.","Voer een wachtwoord in met ten hoogste %1 tekens.",module,Magento_Customer
-"The password needs at least %1 characters. Create a new password and try again.","The password needs at least %1 characters. Create a new password and try again.",module,Magento_Customer
-"The password can't begin or end with a space. Verify the password and try again.","The password can't begin or end with a space. Verify the password and try again.",module,Magento_Customer
+"The password needs at least %1 characters. Create a new password and try again.","Het wachtwoord moet een minimale lengte hebben van %1 karakters. Kies een nieuw wachtwoord en probeer het opnieuw.",module,Magento_Customer
+"The password can't begin or end with a space. Verify the password and try again.","Het wachtwoord mag niet starten of eindingen op een spatie. Kies een nieuw wachtwoord en probeer het opnieuw.",module,Magento_Customer
 "Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","Minimum van verschillende klassen van tekens in wachtwoord is %1. Soorten tekens: kleine letters, hoofdletters, cijfers en speciale tekens.",module,Magento_Customer
-"The password can't be the same as the email address. Create a new password and try again.","The password can't be the same as the email address. Create a new password and try again.",module,Magento_Customer
+"The password can't be the same as the email address. Create a new password and try again.","Het wachtwoord kan niet hetzelfde zijn als het email adres. Kies een nieuw wachtwoord en probeer het opnieuw.",module,Magento_Customer
 "This customer already exists in this store.","Deze klant bestaat al in deze winkel.",module,Magento_Customer
 "A customer with the same email address already exists in an associated website.","A customer with the same email address already exists in an associated website.",module,Magento_Customer
 "The store view is not in the associated website.","De winkelaanzicht is niet in de bijbehorende website.",module,Magento_Customer
 "Invalid value of ""%value"" provided for the %fieldName field.","Ongeldige waarde voor ""% value"" opgegeven voor het %fieldName veld.",module,Magento_Customer
 """%fieldName"" is required. Enter and try again.","""%fieldName"" is required. Enter and try again.",module,Magento_Customer
-"The password token is mismatched. Reset and try again.","The password token is mismatched. Reset and try again.",module,Magento_Customer
-"The password token is expired. Reset and try again.","The password token is expired. Reset and try again.",module,Magento_Customer
+"The password token is mismatched. Reset and try again.","Het wachtwoord token komt niet overeen. Vraag een nieuwe op en probeer het opnieuw.",module,Magento_Customer
+"The password token is expired. Reset and try again.","Het wachtwoord token is verlopen. Vraag een nieuwe op en probeer het opnieuw.",module,Magento_Customer
 "The transactional account email type is incorrect. Verify and try again.","The transactional account email type is incorrect. Verify and try again.",module,Magento_Customer
 """%1"" is a required value.","""%1"" is een vereiste waarde.",module,Magento_Customer
 "Global","Systeem",module,Magento_Customer
@@ -4954,7 +4954,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Lockout Time (minutes)","Duur vergrendeling (minuten)",module,Magento_Customer
 "Account will be unlocked after provided time.","Account will be unlocked after provided time.",module,Magento_Customer
 "Enable Autocomplete on login/forgot password forms","Inschakelen automatisch aanvullen op login en wachtwoord vergeten formulieren",module,Magento_Customer
-"Account Information Options","Opties Account Informatie",module,Magento_Customer
+"Account Information Options","Opties Accountgegevens",module,Magento_Customer
 "Change Email Template","Wijzig E-mail sjabloon",module,Magento_Customer
 "Change Email and Password Template","Wijziging e-mailadres en wachtwoord sjabloon",module,Magento_Customer
 "Name and Address Options","Naam- en adresopties",module,Magento_Customer
@@ -5218,7 +5218,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Use as my default shipping address","Gebruik als standaard verzendadres",module,Magento_CustomerCustomAttributes
 "Save Address","Adres opslaan",module,Magento_CustomerCustomAttributes
 "Go back","Terug",module,Magento_CustomerCustomAttributes
-"Account Information","Account Gegevens",module,Magento_CustomerCustomAttributes
+"Account Information","Accountgegevens",module,Magento_CustomerCustomAttributes
 "Change Email","E-mailadres wijzigen",module,Magento_CustomerCustomAttributes
 "Change Password","Wachtwoord wijzigen",module,Magento_CustomerCustomAttributes
 "Change Email and Password","Wijzig E-Mail en wachtwoord",module,Magento_CustomerCustomAttributes
@@ -7234,7 +7234,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "The tokens couldn't be revoked.","The tokens couldn't be revoked.",module,Magento_Integration
 "An error occurred during the attempt to grant permissions. For details, see the exceptions log.","An error occurred during the attempt to grant permissions. For details, see the exceptions log.",module,Magento_Integration
 "Something went wrong while deleting roles and permissions. You can find out more in the exceptions log.","Er ging iets mis tijdens het verwijderen van rollen en bevoegdheden. Meer informatie in het exceptions logboek.",module,Magento_Integration
-"""%fieldName"" is required. Enter and try again.","""%fieldName"" is required. Enter and try again.",module,Magento_Integration
+"""%fieldName"" is required. Enter and try again.","""%fieldName"" is verplicht. Voer in en probeer het nogmaals.",module,Magento_Integration
 "This customer has no tokens.","De klant heeft geen sleutels.",module,Magento_Integration
 "Inactive","Inactief",module,Magento_Integration
 "Active","Actief",module,Magento_Integration
@@ -7477,7 +7477,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Now Shopping by","Huidige filters",module,Magento_LayeredNavigation
 "Previous","Vorige",module,Magento_LayeredNavigation
 "Remove","Verwijder",module,Magento_LayeredNavigation
-"Remove This Item","Verwijder dit artikel",module,Magento_LayeredNavigation
+"Remove This Item","Verwijder dit filter",module,Magento_LayeredNavigation
 "Shop By","Filteren",module,Magento_LayeredNavigation
 "Clear All","Alles wissen",module,Magento_LayeredNavigation
 "Shopping Options","Selectie verfijnen",module,Magento_LayeredNavigation
@@ -8191,11 +8191,11 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "History Log","Geschiedenislogboek",module,Magento_NegotiableQuote
 "Add your comment","Voeg opmerking toe",module,Magento_NegotiableQuote
 "Attach file","Bestand toevoegen",module,Magento_NegotiableQuote
-"Quote & Account Information","Offerte & Account informatie",module,Magento_NegotiableQuote
+"Quote & Account Information","Offerte & Accountgegevens",module,Magento_NegotiableQuote
 "Quote # %1","Offerte # %1",module,Magento_NegotiableQuote
 "Name","Naam",module,Magento_NegotiableQuote
 "Expiration Date","Vervaldatum",module,Magento_NegotiableQuote
-"Account Information","Account Gegevens",module,Magento_NegotiableQuote
+"Account Information","Accountgegevens",module,Magento_NegotiableQuote
 "Edit Company","Bedrijf bewerken",module,Magento_NegotiableQuote
 "Add Product By SKU","Product toevoegen op art.nr.",module,Magento_NegotiableQuote
 "Name & SKU","Naam & SKU",module,Magento_NegotiableQuote
@@ -10951,7 +10951,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Coupons","Kortingsbonnen",module,Magento_Sales
 "Please select a customer","Selecteer een klant",module,Magento_Sales
 "Create New Customer","Nieuwe klant aanmaken",module,Magento_Sales
-"Account Information","Account Gegevens",module,Magento_Sales
+"Account Information","Accountgegevens",module,Magento_Sales
 "From","Van",module,Magento_Sales
 "To","Aan",module,Magento_Sales
 "Message","Bericht",module,Magento_Sales
@@ -11539,7 +11539,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Status","status",module,Magento_Sales
 "Comment","Opmerking",module,Magento_Sales
 "Notification Not Applicable","notificatie niet van toepassing",module,Magento_Sales
-"Order & Account Information","Bestelling & Account informatie",module,Magento_Sales
+"Order & Account Information","Bestelling & Accountgegevens",module,Magento_Sales
 "The order confirmation email was sent","E-mail bestelbevestiging is verzonden",module,Magento_Sales
 "The order confirmation email is not sent","De bevestingingsemail van de bestelling werd niet verzonden",module,Magento_Sales
 "Order Date","Besteldatum",module,Magento_Sales
@@ -13703,7 +13703,7 @@ We steunen onze goedkeuringen met 100% terugboekingsbescherming en betalen u het
 "%1 Item(s)","%1 producten(en)",module,Magento_Theme
 "Page","Pagina",module,Magento_Theme
 "Previous","Vorige",module,Magento_Theme
-"You're currently reading page","U lees momenteel pagina",module,Magento_Theme
+"You're currently reading page","U leest momenteel pagina",module,Magento_Theme
 "Next","Volgende",module,Magento_Theme
 "Show","Toon",module,Magento_Theme
 "per page","per pagina",module,Magento_Theme
@@ -14254,7 +14254,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Force Sign-In","Forceer opnieuw inloggen",module,Magento_User
 "Edit User '%1'","Bewerken gebruiker '%1'",module,Magento_User
 "New User","Nieuwe gebruiker",module,Magento_User
-"Account Information","Account Gegevens",module,Magento_User
+"Account Information","Accountgegevens",module,Magento_User
 "User Email","E-mail van gebruiker",module,Magento_User
 "Password","Wachtwoord",module,Magento_User
 "New Password","Nieuw wachtwoord",module,Magento_User
@@ -14666,7 +14666,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Page:","Pagina:",module,Magento_VersionsCms
 "Page","Pagina",module,Magento_VersionsCms
 "Previous","Vorige",module,Magento_VersionsCms
-"You're currently reading page","U lees momenteel pagina",module,Magento_VersionsCms
+"You're currently reading page","U leest momenteel pagina",module,Magento_VersionsCms
 "Next","Volgende",module,Magento_VersionsCms
 "Delete Revision and Version","Verwijder modificatie en versie",module,Magento_VersionsCms
 "Publish Revision","Publiceer Herziening",module,Magento_VersionsCms
@@ -14773,7 +14773,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Sort order","Sorteervolgorde",module,Magento_VisualMerchandiser
 "Thumbnail","Thumbnail",module,Magento_VisualMerchandiser
 "Name","Naam",module,Magento_VisualMerchandiser
-"Price","prijs",module,Magento_VisualMerchandiser
+"Price","Prijs",module,Magento_VisualMerchandiser
 "SKU","Art.nr.",module,Magento_VisualMerchandiser
 "The consumer isn't authorized to access %resources.","The consumer isn't authorized to access %resources.",module,Magento_Webapi
 "Operation allowed only in HTTPS","Operatie kan enkel in HTTPS",module,Magento_Webapi
@@ -15284,7 +15284,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "The fewest you may purchase is %1.","The fewest you may purchase is %1.",lib,web
 "The maximum you may purchase is %1.","The maximum you may purchase is %1.",lib,web
 "You can buy this product only in quantities of %1 at a time.","You can buy this product only in quantities of %1 at a time.",lib,web
-"The password can't be the same as the email address. Create a new password and try again.","The password can't be the same as the email address. Create a new password and try again.",lib,web
+"The password can't be the same as the email address. Create a new password and try again.","Het ingegeven wachtwoord en email adres mogen niet overeenkomen. Kies een nieuw wachtwoord en probeer het opnieuw.",lib,web
 "Please fix this field.","Corrigeer dit veld.",lib,web
 "Please enter a valid email address.","Vul een geldig e-mailadres in.",lib,web
 "Please enter a valid URL.","Voer een geldige URL in.",lib,web
@@ -15306,3 +15306,6 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Please enter a date from the past.","Voer een datum in uit het verleden.",lib,web
 "custom.definition","custom.definition",lib,web
 "component.behaviours","component.behaviours",lib,web
+"or call us at <a href=""tel:%store_phone"">%store_phone</a>","of telefonisch op <a href=""tel:%store_phone"">%store_phone</a>",module,Magento_Sales
+"or call us at <a href=""tel:%store_phone"">%store_phone</a>","of telefonisch op <a href=""tel:%store_phone"">%store_phone</a>",module,Magento_Customer
+"Create New Customer Account","Nieuw account aanmaken",module,Magento_Customer
