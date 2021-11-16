@@ -7477,7 +7477,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Now Shopping by","Huidige filters",module,Magento_LayeredNavigation
 "Previous","Vorige",module,Magento_LayeredNavigation
 "Remove","Verwijder",module,Magento_LayeredNavigation
-"Remove This Item","Verwijder dit artikel",module,Magento_LayeredNavigation
+"Remove This Item","Verwijder dit filter",module,Magento_LayeredNavigation
 "Shop By","Filteren",module,Magento_LayeredNavigation
 "Clear All","Alles wissen",module,Magento_LayeredNavigation
 "Shopping Options","Selectie verfijnen",module,Magento_LayeredNavigation
