@@ -3661,7 +3661,7 @@ See Magento documentation for more information,module,Magento_CmsStaging
 "Team Title","Team naam",module,Magento_Company
 "Description","Omschrijving",module,Magento_Company
 "You don't have a company account yet.","U heeft nog geen zakelijk account.",module,Magento_Company
-"Account Information","Account Gegevens",module,Magento_Company
+"Account Information","Accountgegevens",module,Magento_Company
 "VAT/TAX ID: ","BTW-nummer: ",module,Magento_Company
 "Re-seller ID: ","Verkoper ID: ",module,Magento_Company
 "You have no other address entries in your address book.","U hebt geen andere adressen ingevoerd in uw adresboek.",module,Magento_Company
@@ -3812,7 +3812,7 @@ for the following reason:","Uw bedrijfsregistratie aanvraag (voor <strong>%compa
 "Default 'Company Status Change To Pending Approval"" Email","Standaard 'Bedrijfsstatus gewijzigd naar In afwachting van goedkeuring' e-mail",module,Magento_Company
 "This email is sent when company status changes to Pending Approval.","Deze e-mail wordt verzonden wanneer de bedrijfsstatus verandert naar In afwachting van goedkeuring.",module,Magento_Company
 "All","Alle",module,Magento_Company
-"Account Information (View)","Accountinformatie (Bekijk)",module,Magento_Company
+"Account Information (View)","Accountgegevens (Bekijk)",module,Magento_Company
 "Legal Address (View)","Juridische adres (Bekijk)",module,Magento_Company
 "Contacts (View)","Contactpersonen (Bekijk)",module,Magento_Company
 "Company User Management","Bedrijf Gebruikersbeheer",module,Magento_Company
@@ -4954,7 +4954,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Lockout Time (minutes)","Duur vergrendeling (minuten)",module,Magento_Customer
 "Account will be unlocked after provided time.","Account will be unlocked after provided time.",module,Magento_Customer
 "Enable Autocomplete on login/forgot password forms","Inschakelen automatisch aanvullen op login en wachtwoord vergeten formulieren",module,Magento_Customer
-"Account Information Options","Opties Account Informatie",module,Magento_Customer
+"Account Information Options","Opties Accountgegevens",module,Magento_Customer
 "Change Email Template","Wijzig E-mail sjabloon",module,Magento_Customer
 "Change Email and Password Template","Wijziging e-mailadres en wachtwoord sjabloon",module,Magento_Customer
 "Name and Address Options","Naam- en adresopties",module,Magento_Customer
@@ -5218,7 +5218,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Use as my default shipping address","Gebruik als standaard verzendadres",module,Magento_CustomerCustomAttributes
 "Save Address","Adres opslaan",module,Magento_CustomerCustomAttributes
 "Go back","Terug",module,Magento_CustomerCustomAttributes
-"Account Information","Account Gegevens",module,Magento_CustomerCustomAttributes
+"Account Information","Accountgegevens",module,Magento_CustomerCustomAttributes
 "Change Email","E-mailadres wijzigen",module,Magento_CustomerCustomAttributes
 "Change Password","Wachtwoord wijzigen",module,Magento_CustomerCustomAttributes
 "Change Email and Password","Wijzig E-Mail en wachtwoord",module,Magento_CustomerCustomAttributes
@@ -8191,11 +8191,11 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "History Log","Geschiedenislogboek",module,Magento_NegotiableQuote
 "Add your comment","Voeg opmerking toe",module,Magento_NegotiableQuote
 "Attach file","Bestand toevoegen",module,Magento_NegotiableQuote
-"Quote & Account Information","Offerte & Account informatie",module,Magento_NegotiableQuote
+"Quote & Account Information","Offerte & Accountgegevens",module,Magento_NegotiableQuote
 "Quote # %1","Offerte # %1",module,Magento_NegotiableQuote
 "Name","Naam",module,Magento_NegotiableQuote
 "Expiration Date","Vervaldatum",module,Magento_NegotiableQuote
-"Account Information","Account Gegevens",module,Magento_NegotiableQuote
+"Account Information","Accountgegevens",module,Magento_NegotiableQuote
 "Edit Company","Bedrijf bewerken",module,Magento_NegotiableQuote
 "Add Product By SKU","Product toevoegen op art.nr.",module,Magento_NegotiableQuote
 "Name & SKU","Naam & SKU",module,Magento_NegotiableQuote
@@ -10951,7 +10951,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Coupons","Kortingsbonnen",module,Magento_Sales
 "Please select a customer","Selecteer een klant",module,Magento_Sales
 "Create New Customer","Nieuwe klant aanmaken",module,Magento_Sales
-"Account Information","Account Gegevens",module,Magento_Sales
+"Account Information","Accountgegevens",module,Magento_Sales
 "From","Van",module,Magento_Sales
 "To","Aan",module,Magento_Sales
 "Message","Bericht",module,Magento_Sales
@@ -14254,7 +14254,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Force Sign-In","Forceer opnieuw inloggen",module,Magento_User
 "Edit User '%1'","Bewerken gebruiker '%1'",module,Magento_User
 "New User","Nieuwe gebruiker",module,Magento_User
-"Account Information","Account Gegevens",module,Magento_User
+"Account Information","Accountgegevens",module,Magento_User
 "User Email","E-mail van gebruiker",module,Magento_User
 "Password","Wachtwoord",module,Magento_User
 "New Password","Nieuw wachtwoord",module,Magento_User
