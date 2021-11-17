@@ -4270,7 +4270,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Remove Product","Product verwijderen",module,Magento_ConfigurableProduct
 "Create Product Configurations","Productconfiguraties aanmaken",module,Magento_ConfigurableProduct
 "Cancel","Annuleer",module,Magento_ConfigurableProduct
-"As low as","As low as",module,Magento_ConfigurableProduct
+"As low as","Vanaf",module,Magento_ConfigurableProduct
 "Regular Price","Normale prijs",module,Magento_ConfigurableProduct
 "Excl. Tax","Excl. Tax",module,Magento_ConfigurableProduct
 "Buy %1 for %2 each and","Koop %1 voor %2 per stuk en",module,Magento_ConfigurableProduct
@@ -4309,7 +4309,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Scope","Bereik",module,Magento_ConfigurableProduct
 "Searchable","Doorzoekbaar",module,Magento_ConfigurableProduct
 "Comparable","Vergelijkbaar",module,Magento_ConfigurableProduct
-"As low as: ","As low as: ",module,Magento_ConfigurableProduct
+"As low as: ","Vanaf: ",module,Magento_ConfigurableProduct
 "Save","Opslaan",module,Magento_ConfigurableProductStaging
 "Select...","Selecteer...",module,Magento_ConfigurableProductStaging
 "Status","status",module,Magento_ConfigurableProductStaging
