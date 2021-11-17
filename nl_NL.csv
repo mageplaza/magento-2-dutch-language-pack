@@ -2977,7 +2977,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "My Cart (1 item)","Winkelwagen (1 product)",module,Magento_Checkout
 "My Cart (%1 items)","Winkelwagen (%1 producten)",module,Magento_Checkout
 "My Cart","Winkelwagen",module,Magento_Checkout
-"%1: Line %2","%1: Line %2",module,Magento_Checkout
+"%1: Line %2","%1: Regel %2",module,Magento_Checkout
 "For delivery questions.","Voor vragen over de aflevering.",module,Magento_Checkout
 "Customer is already registered","Klant is al geregistreerd",module,Magento_Checkout
 "Your session has expired","Uw sessie is verlopen",module,Magento_Checkout
