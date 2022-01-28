@@ -1,1 +1,2 @@
-"Create New Customer Account","Nieuw account aanmaken",module,Magento_Customer
+"The coupon code isn't valid. Verify the code and try again.","De kortingscode is niet geldig. Controleer de code en probeer opnieuw.",module,Magento_Quote
+"The coupon code couldn't be deleted. Verify the coupon code and try again.","De kortingscode kan niet verwijderd worden. Controleer de code en probeer opnieuw.",module,Magento_Quote
