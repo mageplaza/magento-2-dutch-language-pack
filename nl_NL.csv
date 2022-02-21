@@ -15310,3 +15310,4 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "or call us at <a href=""tel:%store_phone"">%store_phone</a>","of telefonisch op <a href=""tel:%store_phone"">%store_phone</a>",module,Magento_Customer
 "The email address has an invalid format.","Het e-mailadres heeft een ongeldig formaat.",module,Magento_CustomerGraphQl
 "Cannot reset the customer's password","Kan het wachtwoord van de klant niet resetten",module,Magento_CustomerGraphQl
+"The password token is expired. Reset and try again.","The password token is expired. Reset and try again.",module,Magento_CustomerGraphQl
