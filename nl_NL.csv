@@ -4657,9 +4657,9 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "A customer with the same email address already exists in an associated website.","A customer with the same email address already exists in an associated website.",module,Magento_Customer
 "The store view is not in the associated website.","De winkelaanzicht is niet in de bijbehorende website.",module,Magento_Customer
 "Invalid value of ""%value"" provided for the %fieldName field.","Ongeldige waarde voor ""% value"" opgegeven voor het %fieldName veld.",module,Magento_Customer
-"""%fieldName"" is required. Enter and try again.","""%fieldName"" is required. Enter and try again.",module,Magento_Customer
-"The password token is mismatched. Reset and try again.","The password token is mismatched. Reset and try again.",module,Magento_Customer
-"The password token is expired. Reset and try again.","The password token is expired. Reset and try again.",module,Magento_Customer
+"""%fieldName"" is required. Enter and try again.","""%fieldName"" is verplicht. Voer in en probeer het opnieuw.",module,Magento_Customer
+"The password token is mismatched. Reset and try again.","Wachtwoord link is incorrect, probeer opnieuw of vraag opnieuw aan.",module,Magento_Customer
+"The password token is expired. Reset and try again.","Het wachtwoordtoken is verlopen. Reset en probeer het opnieuw.",module,Magento_Customer
 "The transactional account email type is incorrect. Verify and try again.","The transactional account email type is incorrect. Verify and try again.",module,Magento_Customer
 """%1"" is a required value.","""%1"" is een vereiste waarde.",module,Magento_Customer
 "Global","Systeem",module,Magento_Customer
