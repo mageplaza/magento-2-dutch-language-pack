@@ -4574,7 +4574,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your shipping address for proper VAT calculation.","Als u een geregistreerde BTW-klant bent, gelieve <a href=""%1""> hier te klikken </a> om uw verzendadres in te voeren voor een juiste BTW-berekening.",module,Magento_Customer
 "If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your billing address for proper VAT calculation.","Als u een geregistreerde BTW-klant bent, gelieve <a href=""%1""> hier te klikken </a> om uw factuuradres in te voeren voor een juiste BTW-berekening.",module,Magento_Customer
 "You saved the account information.","U heeft de accountgegevens opgeslagen.",module,Magento_Customer
-"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.",module,Magento_Customer
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","De account-aanmelding is onjuist of uw account is tijdelijk uitgeschakeld. Wacht even en probeer het later opnieuw.",module,Magento_Customer
 "Password confirmation doesn't match entered password.","Wachtwoord-bevestiging komt niet overeen met ingegeven wachtwoord.",module,Magento_Customer
 "The password doesn't match this account. Verify the password and try again.","The password doesn't match this account. Verify the password and try again.",module,Magento_Customer
 "The email address is incorrect. Verify the email address and try again.","The email address is incorrect. Verify the email address and try again.",module,Magento_Customer
@@ -7230,7 +7230,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Integration '%1' has been sent for activation.","Integratie '%1' is verstuurd voor activatie.",module,Magento_Integration
 "A consumer with ""%1"" ID doesn't exist. Verify the ID and try again.","A consumer with ""%1"" ID doesn't exist. Verify the ID and try again.",module,Magento_Integration
 "title","titel",module,Magento_Integration
-"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.",module,Magento_Integration
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","De account-aanmelding is onjuist of uw account is tijdelijk uitgeschakeld. Wacht even en probeer het later opnieuw.",module,Magento_Integration
 "The tokens couldn't be revoked.","The tokens couldn't be revoked.",module,Magento_Integration
 "An error occurred during the attempt to grant permissions. For details, see the exceptions log.","An error occurred during the attempt to grant permissions. For details, see the exceptions log.",module,Magento_Integration
 "Something went wrong while deleting roles and permissions. You can find out more in the exceptions log.","Er ging iets mis tijdens het verwijderen van rollen en bevoegdheden. Meer informatie in het exceptions logboek.",module,Magento_Integration
@@ -12315,7 +12315,7 @@ Gebruikslimiet wordt alleen voor ingelogde klanten afgedwongen.                "
 "Incorrect Security Checker class. It has to implement SecurityCheckerInterface","Onjuiste Security Checker class. Het moet SecurityCheckerInterface implementeren",module,Magento_Security
 """%1"" must be later than the current date.","""%1"" must be later than the current date.",module,Magento_Security
 """%1"" is not a valid date.","""%1"" is not a valid date.",module,Magento_Security
-"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.",module,Magento_Security
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","De account-aanmelding is onjuist of uw account is tijdelijk uitgeschakeld. Wacht even en probeer het later opnieuw.",module,Magento_Security
 "some error","een fout",module,Magento_Security
 "This administrator account is open in more than one location. Note that other locations might be different browsers or sessions on the same computer.","Deze administrator-account is geopend in meer dan één locatie. Het is mogelijk dat de andere locaties mogelijk verschillende browsers of sessies op dezelfde computer zijn.",module,Magento_Security
 "Concurrent session information:","Gelijktijdige sessie-informatie:",module,Magento_Security
@@ -14306,7 +14306,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "email","E-mailadres",module,Magento_User
 "password","wachtwoord",module,Magento_User
 "username","gebruikersnaam",module,Magento_User
-"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.",module,Magento_User
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","De account-aanmelding is onjuist of uw account is tijdelijk uitgeschakeld. Wacht even en probeer het later opnieuw.",module,Magento_User
 "More permissions are needed to access this.","More permissions are needed to access this.",module,Magento_User
 "The password reset token is incorrect. Verify the token and try again.","The password reset token is incorrect. Verify the token and try again.",module,Magento_User
 "Your account is temporarily disabled. Please try again later.","Your account is temporarily disabled. Please try again later.",module,Magento_User
