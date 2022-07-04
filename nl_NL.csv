@@ -15312,3 +15312,4 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Cannot reset the customer's password","Kan het wachtwoord van de klant niet resetten",module,Magento_CustomerGraphQl
 "The password token is expired. Reset and try again.","The password token is expired. Reset and try again.",module,Magento_CustomerGraphQl
 "Could not update the product with SKU %sku: %message","Kan het product niet updaten met SKU %sku: %message",module,Magento_QuoteGraphQl
+"Unable to place order: %message","Kan bestelling niet plaatsen: %message"
