@@ -402,7 +402,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Card Code Response","Kaart Code Antwoord",module,Magento_Authorizenet
 "CAVV Response","CAVV Antwoord",module,Magento_Authorizenet
 "Fraud Filters","Fraude Filters",module,Magento_Authorizenet
-"Place Order","Plaats bestelling",module,Magento_Authorizenet
+"Place Order","Bestellen en betalen",module,Magento_Authorizenet
 "Sorry, but something went wrong. Please contact the seller.","Er ging iets mis. Neem contact op met de verkoper.",module,Magento_Authorizenet
 "Authorize.net Direct Post","Authorize.net Directe Post",module,Magento_Authorizenet
 "Enabled","Ingeschakeld",module,Magento_Authorizenet
@@ -1189,7 +1189,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Credit Card Information","Kredietkaart informatie",module,Magento_Braintree
 "What is this?","Wat is dit?",module,Magento_Braintree
 "Save for later use.","Opslaan voor later gebruik.",module,Magento_Braintree
-"Place Order","Plaats bestelling",module,Magento_Braintree
+"Place Order","Bestellen en betalen",module,Magento_Braintree
 "This payment is not available","Deze betaalwijze is niet beschikbaar",module,Magento_Braintree
 "MM","mm",module,Magento_Braintree
 "YY","jj",module,Magento_Braintree
@@ -3115,7 +3115,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "No Payment method available.","Geen betaalmethode beschikbaar.",module,Magento_Checkout
 "You can track your order status by creating an account.","Door het aanmaken van een account, kunt u de status van uw bestelling bijhouden.",module,Magento_Checkout
 "Create an Account","Create an Account",module,Magento_Checkout
-"Place Order","Plaats bestelling",module,Magento_Checkout
+"Place Order","Bestellen en betalen",module,Magento_Checkout
 "Forgot an Item?","Iets vergeten?",module,Magento_Checkout
 "Edit Your Cart","Ga terug naar uw winkelwagen",module,Magento_Checkout
 "Ship Here","Hier naartoe verzenden",module,Magento_Checkout
@@ -3968,7 +3968,7 @@ Your outstanding balance currently totals %outstanding_balance. You are %exceed_
 "Available Credit ","Beschikbaar krediet ",module,Magento_CompanyCredit
 "The Payment on Account method is not available in the selected currency. Please contact the seller.","Betaal op rekening is niet beschikbaar voor de geselecteerde valuta. Neem contact op met de verkoper.",module,Magento_CompanyCredit
 "Company credit account will be charged: ","Bedrijfskrediet wordt in rekening gebracht: ",module,Magento_CompanyCredit
-"Place Order","Plaats bestelling",module,Magento_CompanyCredit
+"Place Order","Bestellen en betalen",module,Magento_CompanyCredit
 "Cancel the Order","Annuleer bestelling",module,Magento_CompanyCredit
 "This is a required field.","Dit is een verplicht veld.",module,Magento_CompanyCredit
 "Please enter a valid number in this field.","Voer a.u.b. een geldig getal in dit veld in.",module,Magento_CompanyCredit
@@ -5483,7 +5483,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Authorize and Capture","Autoriseren en vastleggen",module,Magento_Cybersource
 "Risk Factor Q","Risicofactor Q",module,Magento_Cybersource
 "Risk Factor V","Risicofactor V",module,Magento_Cybersource
-"Place Order","Plaats bestelling",module,Magento_Cybersource
+"Place Order","Bestellen en betalen",module,Magento_Cybersource
 "Cybersource","Cybersource",module,Magento_Cybersource
 "Enabled","Ingeschakeld",module,Magento_Cybersource
 "Payment Action","Betaling",module,Magento_Cybersource
@@ -7863,7 +7863,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Select Addresses","Adres selecteren",module,Magento_Multishipping
 "Shipping Information","Bezorg Informatie",module,Magento_Multishipping
 "Billing Information","Factuurinformatie",module,Magento_Multishipping
-"Place Order","Plaats bestelling",module,Magento_Multishipping
+"Place Order","Bestellen en betalen",module,Magento_Multishipping
 "Order Success","Bestelling succes",module,Magento_Multishipping
 "Order Results","Order Results",module,Magento_Multishipping
 "Default Billing","Standaard Factuuradres",module,Magento_Multishipping
@@ -8590,7 +8590,7 @@ information on installing the agent is available <a target=""_blank"" href=""%1"
 "Purchase Order Number: %1","Inkoopordernummer: %1",module,Magento_OfflinePayments
 "Make Check payable to","Maak overboeking naar",module,Magento_OfflinePayments
 "Send Check to","Maak overboeking naar",module,Magento_OfflinePayments
-"Place Order","Plaats bestelling",module,Magento_OfflinePayments
+"Place Order","Bestellen en betalen",module,Magento_OfflinePayments
 "Check / Money Order","Betaling door middel van Overboeking",module,Magento_OfflinePayments
 "Enabled","Ingeschakeld",module,Magento_OfflinePayments
 "New Order Status","Nieuwe orderstatus",module,Magento_OfflinePayments
@@ -8738,7 +8738,7 @@ If field is empty default value localhost will be saved.","IPs toegangslijst ges
 "Card Verification Number Visual Reference","Visuele referentie Kaartverificatienummer",module,Magento_Payment
 "What is this?","Wat is dit?",module,Magento_Payment
 "Credit Card Information","Kredietkaart informatie",module,Magento_Payment
-"Place Order","Plaats bestelling",module,Magento_Payment
+"Place Order","Bestellen en betalen",module,Magento_Payment
 "Forgot an Item?","Iets vergeten?",module,Magento_Payment
 "Edit Your Cart","Ga terug naar uw winkelwagen",module,Magento_Payment
 "Please enter a valid credit card type number.","Geef a. u. b. een geldig creditcard-nummer op.",module,Magento_Payment
@@ -9173,7 +9173,7 @@ If field is empty default value localhost will be saved.","IPs toegangslijst ges
 "Edit Payment Information","Betalingsgegevens bewerken",module,Magento_Paypal
 "Items in Your Shopping Cart","Producten in uw winkelwagen",module,Magento_Paypal
 "Edit Shopping Cart","Winkelwagen bewerken",module,Magento_Paypal
-"Place Order","Plaats bestelling",module,Magento_Paypal
+"Place Order","Bestellen en betalen",module,Magento_Paypal
 "Submitting order information...","Informatie van de bestelling wordt opgeslagen...",module,Magento_Paypal
 "Item","Product",module,Magento_Paypal
 "Price","prijs",module,Magento_Paypal
