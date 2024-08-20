@@ -4933,7 +4933,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 Email template chosen based on theme fallback when ""Default"" option is selected.",module,Magento_Customer
 "Email Sender","Afzender E-mail",module,Magento_Customer
 "Require Emails Confirmation","E-mailbevestiging verplichten",module,Magento_Customer
-"Confirmation Link Email","Bevestinglink e-mail",module,Magento_Customer
+"Confirmation Link Email","Bevestigingslink e-mail",module,Magento_Customer
 "Welcome Email","Welkomstmail",module,Magento_Customer
 "This email will be sent instead of the Default Welcome Email, after account confirmation. <br /><br />,module,Magento_Customer
 Email template chosen based on theme fallback when ""Default"" option is selected.","This email will be sent instead of the Default Welcome Email, after account confirmation. <br /><br />,module,Magento_Customer
@@ -11541,7 +11541,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Notification Not Applicable","notificatie niet van toepassing",module,Magento_Sales
 "Order & Account Information","Bestelling & Account informatie",module,Magento_Sales
 "The order confirmation email was sent","E-mail bestelbevestiging is verzonden",module,Magento_Sales
-"The order confirmation email is not sent","De bevestingingsemail van de bestelling werd niet verzonden",module,Magento_Sales
+"The order confirmation email is not sent","De bevestigingsmail van de bestelling werd niet verzonden",module,Magento_Sales
 "Order Date","Besteldatum",module,Magento_Sales
 "Order Date (%1)","Besteldatum (%1)",module,Magento_Sales
 "Purchased From","Gekocht via",module,Magento_Sales
