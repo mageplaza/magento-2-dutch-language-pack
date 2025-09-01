@@ -2592,7 +2592,7 @@ Time in seconds between the widget updates.,module,Magento_Catalog
 "We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","We hebben niet zo veel van ""%1"" zoals u gevraagd heeft, maar we zullen de resterende %2 naleveren.",module,Magento_CatalogInventory
 "We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.","We hebben niet zo veel van ""%1"" zoals u gevraagd heeft, maar we zullen de resterende %2 naleveren.",module,Magento_CatalogInventory
 "You can buy %1 only in quantities of %2 at a time.","U kunt %1 alleen in hoeveelheden van %2 kopen in één keer.",module,Magento_CatalogInventory
-"You can buy this product only in quantities of %1 at a time.","U kunt dit product enkel in veelvouden van %1 kopen.",module,Magento_CatalogInventory
+"You can buy this product only in quantities of %1 at a time.","Dit product is alleen verkrijgbaar in eenheden van %1",module,Magento_CatalogInventory
 "Quantity increments can't use decimals. Enter a new increment and try again.","Quantity increments can't use decimals. Enter a new increment and try again.",module,Magento_CatalogInventory
 "Something went wrong while updating the product(s) attributes.","Something went wrong while updating the product(s) attributes.",module,Magento_CatalogInventory
 "Stock Status","Voorraadstatus",module,Magento_CatalogInventory
@@ -13964,7 +13964,7 @@ We steunen onze goedkeuringen met 100% terugboekingsbescherming en betalen u het
 "Please enter a quantity greater than 0.","Please enter a quantity greater than 0.",module,Magento_Ui
 "The fewest you may purchase is %1.","The fewest you may purchase is %1.",module,Magento_Ui
 "The maximum you may purchase is %1.","The maximum you may purchase is %1.",module,Magento_Ui
-"You can buy this product only in quantities of %1 at a time.","You can buy this product only in quantities of %1 at a time.",module,Magento_Ui
+"You can buy this product only in quantities of %1 at a time.","Dit product is alleen verkrijgbaar in eenheden van %1",module,Magento_Ui
 "We don't recognize or support this file extension type.","We herkennen of ondersteunen dit bestandsformaat type niet.",module,Magento_Ui
 "File you are trying to upload exceeds maximum file size limit.","Bestand dat u probeert te uploaden overschrijdt de maximale bestandsgrootte limiet.",module,Magento_Ui
 "Please use tag SCRIPT with SRC attribute or with proper content to include JavaScript to the document.","Gebruik SCRIPT tag met het kenmerk SRC of met goede inhoud om JavaScript te voegen aan het document.",module,Magento_Ui
@@ -15283,7 +15283,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Please enter a quantity greater than 0.","Please enter a quantity greater than 0.",lib,web
 "The fewest you may purchase is %1.","The fewest you may purchase is %1.",lib,web
 "The maximum you may purchase is %1.","The maximum you may purchase is %1.",lib,web
-"You can buy this product only in quantities of %1 at a time.","You can buy this product only in quantities of %1 at a time.",lib,web
+"You can buy this product only in quantities of %1 at a time.","Dit product is alleen verkrijgbaar in eenheden van %1",lib,web
 "The password can't be the same as the email address. Create a new password and try again.","The password can't be the same as the email address. Create a new password and try again.",lib,web
 "Please fix this field.","Corrigeer dit veld.",lib,web
 "Please enter a valid email address.","Vul een geldig e-mailadres in.",lib,web
